@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>LUNES</th>
+        <th>MARTES</th>
+        <th>MIÉRCOLES</th>
+        <th>JUEVES</th>
+        <th>VIERNES</th>
+        <th>SÁBADO</th>
+        <th>DOMINGO</th>
+      </tr>
+      <tr>
+        <td>Pulpo a la gallega<br />Natillas</td>
+        <td>Lentejas estofadas<br />Zumo de naranja</td>
+        <td>Canelones de atún<br />Fruta variada</td>
+        <td>Judías verdes con patatas<br />Yogur con pasas y nueces</td>
+        <td>Pimientos rellenos de bacalao<br />Manzana asada</td>
+        <td>Paella de marisco<br />Helado de turrón</td>
+        <td>Picnic en el jardín<br />Sandía</td>
+      </tr>
+    </table>
+  </body>
+</html>

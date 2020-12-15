@@ -1,0 +1,11 @@
+td {
+  border: 1px solid blueviolet;
+  text-align: center;
+}
+
+table {
+  background: cornsilk;
+  font-family: "Trebuchet MS";
+  font-size: 20px;
+  border: 3px solid blueviolet;
+}
