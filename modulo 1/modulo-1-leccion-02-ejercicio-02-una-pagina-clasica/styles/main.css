@@ -1,0 +1,19 @@
+body {
+  margin: 3em 2em;
+}
+.container {
+  border: 3px solid deeppink;
+  margin: 1em;
+  width: 400px;
+  padding-block: 10px;
+  padding-inline: 10px;
+}
+aside {
+       
+    background-color: paleturquoise;
+    color: gray;
+    font-weight: 700;
+    font-style:oblique;
+    display: inline-block;
+    position: right;
+}
