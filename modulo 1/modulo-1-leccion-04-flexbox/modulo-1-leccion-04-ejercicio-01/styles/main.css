@@ -1,0 +1,16 @@
+   
+       .item{
+        border: 1px solid black;
+        width: 100px;
+        height: 300px;
+    }
+    .container{        /* Crear un contenedor flex de 500px por 500px con 6 o más elementos*/
+        width: 500px;
+        height: 500px;
+        display:flex;
+/*hacer que se distribuyan en horizontal:*/ 
+/*      flex-direction: row;   (por defecto)*/    
+        flex-direction: column;      /*y en vertical */
+    }
+     /*indicar cual es el eje principal:
+     cuando es row es el horizontal y cuando es column es el vertical */

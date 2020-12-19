@@ -1,0 +1,30 @@
+.page {
+  margin: 0;
+  max-width: 960px;
+}
+.header {
+  background: red;
+}
+.aside1 {
+  background-color: yellow;
+  width: 25%;
+}
+.main {
+  background-color: cornflowerblue;
+  width: 50%;
+  /* flex-grow: 1; */
+}
+.aside2 {
+  background-color: pink;
+  width: 25%;
+}
+footer {
+ background-color: green; 
+}
+.main-container {
+  display: flex;
+}
+
+
+
+}
