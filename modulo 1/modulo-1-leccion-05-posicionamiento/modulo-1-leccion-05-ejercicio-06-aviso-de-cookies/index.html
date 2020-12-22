@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/main.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <section class="container">
+      <div>
+        Antes de tener disponible flexbox el posicionamiento que vamos a ver era
+        la principal opción de solucionar diseños complejos. En cualquier caso
+        todavía puede que nos encontremos con soluciones muy complejas o código
+        ya resuelto con este sistema, así que vamos a verlo: Aparte de modificar
+        la distribución, podremos hacer que cambien su comportamiento a la hora
+        de hacer scroll en la página y que modifiquen la posición de otros
+        objetos al modificar la suya propia. La propiedad position de CSS será
+        la que nos permita modificar la forma en la que se distribuyen los
+        objetos a través de una página web.
+      </div>
+      <div>
+        El atributo position es fundamental en casos muy concretos con las webs
+        actuales, es decir, no podríamos tener ciertas superposiciones y no
+        podríamos sacar a un elemento del flujo de la página para que el resto
+        de elementos (contenedor y elementos hermanos) no lo tengan en cuenta y
+        lo ignoren. La propiedad position tiene cuatro valores posibles:
+      </div>
+      <div>
+        static: Es el tipo de posición por defecto en todos los elementos HTML.
+        relative: Permite modificar la posición de un elemento en función de su
+        posición actual en la página.
+      </div>
+      <div>
+        absolute: Saca al elemento del flujo de la página, es decir, hace que su
+        contenedor y los elementos de antes y después no lo tengan en cuenta a
+        la hora de posicionarse y definir su tamaño y por otro lado posiciona el
+        elemento en función de la posición del body o en su defecto del primer
+        elemento contenedor que tenga una posición diferente a static (posición
+        por defecto).
+      </div>
+      <div>
+        fixed: Saca a un elemento del flujo normal de la página y permite
+        posicionarlo en función de la ventana del navegador. Aparte, este tipo
+        de elementos mantienen su posición cuando hacemos scroll en la página
+        (como si se mantuviesen anclados en un mismo punto), de ahí su nombre
+        fixed (fijo).
+      </div>
+    </section>
+    <div class="cookies">
+      Esta página web utiliza cookies. Si continúa navegando acepta el uso de
+      cookies.
+    </div>
+  </body>
+</html>

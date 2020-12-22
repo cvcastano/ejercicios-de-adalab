@@ -1,0 +1,11 @@
+* {
+  font-size: xx-large;
+}
+
+.cookies {
+  height: 100px;
+  width: 100vw;
+  background: #9acd32;
+  position: fixed;
+  bottom: 0;
+}
