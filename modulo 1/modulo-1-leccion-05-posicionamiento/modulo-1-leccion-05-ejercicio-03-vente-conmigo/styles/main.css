@@ -1,0 +1,17 @@
+
+
+.header {
+background-color: purple;
+position: fixed;
+width: 100vw;
+z-index: 1;
+
+}
+
+.container {
+font-size: xx-large;
+overflow: auto;
+position: relative;
+top: 40px;
+
+}
