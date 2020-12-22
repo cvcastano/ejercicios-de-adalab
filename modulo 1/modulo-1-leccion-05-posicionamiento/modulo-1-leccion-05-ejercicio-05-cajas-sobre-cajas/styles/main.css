@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+.div--1 {
+background-color: yellow;
+width: 500px;
+height: 500px;
+padding: 40px;
+border: 2px solid black
+
+}
+
+.div--2 {
+background-color: green;
+width: 300px;
+height: 300px;
+position: absolute;
+top: 0;
+padding: 75px;
+
+}
+
+.div--3 {
+background-color: blue;
+width: 150px;
+height: 150px;
+position: absolute;
+top: 0;
+border: 20px black dotted;
+
+}
+
+/* 40px de padding y 2px de borde al div1.
+75px de padding al div2.
+20px de borde de puntos al div3. */
