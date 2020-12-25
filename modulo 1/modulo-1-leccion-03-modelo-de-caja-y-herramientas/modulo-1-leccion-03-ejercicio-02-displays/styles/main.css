@@ -1,0 +1,16 @@
+.div {
+    width: 100px;
+    height: 100px;
+}
+.block {
+    background-color: purple;
+    display: block;
+}
+.inline {
+    background-color: yellowgreen;
+    display: inline;
+}
+.inline-block {
+    background-color: orangered;
+    display: inline-block;
+}
