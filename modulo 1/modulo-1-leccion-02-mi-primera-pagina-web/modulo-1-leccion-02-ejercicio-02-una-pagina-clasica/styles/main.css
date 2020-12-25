@@ -10,10 +10,13 @@ body {
 }
 aside {
        
-    background-color: paleturquoise;
+    background-color: deepskyblue;
     color: gray;
     font-weight: 700;
     font-style:oblique;
     display: inline-block;
     position: right;
+}
+p {
+  color: black;
 }
