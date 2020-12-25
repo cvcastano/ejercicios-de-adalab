@@ -6,7 +6,7 @@ h1 {
     font-family: Arial;
     font-size: 24px
 } 
-p{
+p, ul, ol {
     color: #757575;
     font-family: Georgia;
     font-size: 18px;
