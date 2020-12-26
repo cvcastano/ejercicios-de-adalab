@@ -1,0 +1,21 @@
+.container {
+  background-color: blueviolet;
+  
+}
+.pic {
+  width: 100px;
+  height: 100px;
+  border: solid yellow 5px;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+/* Hacer un div de 100x100px usando las propiedades width y height, incluir dentro una imagen de 100x100px y probar:
+Añadir un padding de 10px
+Añadir un borde de 5px
+Cambiar el modelo de caja a border-box y explica qué ha pasado:
+LA FOTO SE HA HECHO MÁS PEQUEÑA, LOS 100x100px INCLUYEN EL MARGEN Y EL PADDING.
+Centrar la caja utilizando el valor auto en los margenes horizontales. */
