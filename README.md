@@ -12,7 +12,7 @@ If you prefer to go to a specific one, you can search below:
  - Exercises 1 to 6. Gazpacho recipe. [First steps in HTML and CSS.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-01-intro-a-la-web/modulo-1-leccion-01-ejercicios-1-al-6 "First steps in HTML and CSS")
 #### LESSON 2	My first web page
  - Exercise 1: Organizing a weekly menu. [Creating tables.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-02-mi-primera-pagina-web/modulo-1-leccion-02-ejercicio-01-menu-semanal "Creating tables.")
- - Exercise 2: A clasic page. [Creating a semantic page.](http:/https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-02-mi-primera-pagina-web/ "Creating a semantic page")
+ - Exercise 2: A clasic page. [Creating a semantic page.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-02-mi-primera-pagina-web/modulo-1-leccion-02-ejercicio-02-una-pagina-clasica)
  - Exercise 3: Colour me those links. Learning about inheritance in CSS.   
  - Exercise 4: Inheritance for everyone. Using inheritance for a neater code.
  - Exercise 5: Knowing specificity. [Practicing specificity in CSS.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-02-mi-primera-pagina-web/modulo-1-leccion-02-ejercicio-05-especificidad "Practicing the specificity in CSS.")
