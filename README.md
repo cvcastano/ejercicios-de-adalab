@@ -55,11 +55,11 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 2: Flex wrap. [Using the flex-wrap property.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-02)
  - Exercise 3: Justify content y align items. [Creating a horizontal list menu.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-03-justify-content-and-align-items)
  - Exercise 4: Order [Creating a news list with diverse content.]
- - Exercise 5: Flex, grow, shrink and basis. []()
+ - Exercise 5: Flex, grow, shrink and basis. [Using min-height & vh.]
  - Exercise 6: Recreating a sketch. [Using FlexBox.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-06)
- - Exercise 7: []()
- - Exercise 8: []()
- - Exercise 9: []()
+ - Exercise 7: Another sketch. [More FlexBox.]
+ - Exercise 8: One more sketch. [Even more Flexbox.]
+ - Exercise 9: Changing sizes. [Using vw and vh]
 </details>
 
 #### LESSON 5 CSS Positioned Layout
