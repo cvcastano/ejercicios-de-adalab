@@ -33,8 +33,7 @@ If you prefer to go to a specific one, you can search below:
   
 #### LESSON 3	Box model and DevTools
 <details>
-<summary>
-</summary>
+<summary></summary>
 
  - Exercise 1: Marking. [Using the &lt;mark&gt; tag](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-01-marcando "Using the mark tag") 
  - Exercise 2: Displays. [Changing displays.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-02-displays)
