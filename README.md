@@ -1,7 +1,8 @@
 # Welcome to My First Repository!
 
 Hi! This is **my first repository**, my first **Readme** and the first time I use **Markdown**.
-Oh my Code!, how I love doing things for the first time!
+
+Oh my Code! how I love doing things for the first time!
 
 I will add here all the exercises I do.
 
@@ -9,8 +10,16 @@ I will add here all the exercises I do.
 You can go straight to all the module 1 exercises [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201)
 
 If you prefer to go to a specific one, you can search below:
+<details>
+<summary>
+
 #### LESSON 1	Introduction to the Web
+
+</summary>
+
  - Exercises 1 to 6. Gazpacho recipe. [First steps in HTML and CSS.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-01-intro-a-la-web/modulo-1-leccion-01-ejercicios-1-al-6 "First steps in HTML and CSS")
+</details>
+
 #### LESSON 2	My first web page
  - Exercise 1: Organizing a weekly menu. [Creating tables.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-02-mi-primera-pagina-web/modulo-1-leccion-02-ejercicio-01-menu-semanal "Creating tables.")
  - Exercise 2: A clasic page. [Creating a semantic page.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-02-mi-primera-pagina-web/modulo-1-leccion-02-ejercicio-02-una-pagina-clasica)
