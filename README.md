@@ -10,6 +10,8 @@ I will add here all the exercises I do.
 You can go straight to all the module 1 exercises [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201)
 
 If you prefer to go to a specific one, you can search below:
+<details>
+<summary></summary>
 
 #### LESSON 1	Introduction to the Web
 <details open>
@@ -49,8 +51,7 @@ If you prefer to go to a specific one, you can search below:
  
 #### LESSON 4	FlexBox
 <details>
-<summary>
-</summary>
+<summary></summary>
  
  - Exercise 1: Flex and flex direction. []()
  - Exercise 2: []()
@@ -65,8 +66,7 @@ If you prefer to go to a specific one, you can search below:
 
 #### LESSON 5 CSS Positioned Layout
 <details>
-<summary>
-</summary>
+<summary></summary>
  
  - Exercise 1: []()
  - Exercise 2: []()
@@ -78,4 +78,5 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 8: []()
  - Exercise 9: []()
  - Exercise 10: []()
+</details>
 </details>
