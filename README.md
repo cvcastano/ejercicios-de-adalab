@@ -30,13 +30,23 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 9: DevTools: Inspector.
  - Exercise 10: DevTools: Network.
 #### LESSON 4	FlexBox
- - Exercise 1:
- - Exercise 2:
- - Exercise 3:
- - Exercise 4:
- - Exercise 5:
- - Exercise 6:
- - Exercise 7:
- - Exercise 8:
- - Exercise 9:
- - Exercise 10:
+ - Exercise 1: Flex and flex direction. []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+#### LESSON 5 CSS Positioned Layout
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
