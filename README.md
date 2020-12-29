@@ -20,7 +20,7 @@ If you prefer to go to a specific one, you can search below:
 </details>
 
 #### LESSON 2	My first web page  
-<details open> 
+<details> 
 <summary> </summary>
 
  - Exercise 1: Organizing a weekly menu. [Creating tables.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-02-mi-primera-pagina-web/modulo-1-leccion-02-ejercicio-01-menu-semanal "Creating tables.")
@@ -32,7 +32,7 @@ If you prefer to go to a specific one, you can search below:
 </details>
   
 #### LESSON 3	Box model and DevTools
-<details open>
+<details>
 <summary></summary>
 
  - Exercise 1: Marking. [Using the &lt;mark&gt; tag.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-01-marcando "Using the mark tag") 
@@ -48,7 +48,7 @@ If you prefer to go to a specific one, you can search below:
 </details>
  
 #### LESSON 4	FlexBox
-<details>
+<details open>
 <summary></summary>
  
  - Exercise 1: Flex and flex direction. [Practicing display and both axes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-01)
