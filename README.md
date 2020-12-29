@@ -53,10 +53,10 @@ If you prefer to go to a specific one, you can search below:
  
  - Exercise 1: Flex and flex direction. [Practicing display and both axes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-01)
  - Exercise 2: Flex wrap. [Using the flex-wrap property.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-02)
- - Exercise 3: Justify content y align items. [Creating a horizontal list menu](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-03-justify-content-and-align-items)
- - Exercise 4: []()
- - Exercise 5: []()
- - Exercise 6: [](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-06)
+ - Exercise 3: Justify content y align items. [Creating a horizontal list menu.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-03-justify-content-and-align-items)
+ - Exercise 4: Order [Creating a news list with diverse content.]
+ - Exercise 5: Flex, grow, shrink and basis. []()
+ - Exercise 6: Recreating a sketch. [Using FlexBox.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-06)
  - Exercise 7: []()
  - Exercise 8: []()
  - Exercise 9: []()
