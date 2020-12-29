@@ -6,7 +6,8 @@ God, how I love doing things for the first time!
 I will add here all the exercises I do.
 
 ## Module 1 ---- HTML & CSS 
-You can go straight to all the module 1 exercises [here](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201)
+You can go straight to all the module 1 exercises [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201)
+
 If you prefer to go to a specific one, you can search below:
 #### LESSON 1	Introduction to the Web
  - Exercises 1 to 6. Gazpacho recipe. [First steps in HTML and CSS.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-01-intro-a-la-web/modulo-1-leccion-01-ejercicios-1-al-6 "First steps in HTML and CSS")
