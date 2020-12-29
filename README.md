@@ -1,6 +1,6 @@
 # # Welcome to My First Repository!
 
-Hi! This is **my first repository**, this is my first **Readme** and it is the first time I use **Markdown**.
+Hi! This is **my first repository**, my first **Readme** and the first time I use **Markdown**.
 God, how I love doing things for the first time!
 
 I will add here all the exercises I do.
