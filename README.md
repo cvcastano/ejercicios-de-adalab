@@ -35,14 +35,14 @@ If you prefer to go to a specific one, you can search below:
 <details open>
 <summary></summary>
 
- - Exercise 1: Marking. [Using the &lt;mark&gt; tag](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-01-marcando "Using the mark tag") 
+ - Exercise 1: Marking. [Using the &lt;mark&gt; tag.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-01-marcando "Using the mark tag") 
  - Exercise 2: Displays. [Changing displays.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-02-displays)
  - Exercise 3: Image in a paragraph. [Adding content.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-03-imagen-en-parrafo)
  - Exercise 4: Image between paragraphs. [Practicing adding content.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-04-imagen-entre-parrafos)
- - Exercise 5: Adjusting images. [Practicing more with content](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-05-ajustando-imagenes)
- - Exercise 6: Everything in its box. [Using overflow](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-06-todo-en-su-caja)
- - Exercise 7: Corchángulo Team. [Aligning inline elements](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-07-equipo-corchangulo) 
- - Exercise 8: Variables CSS. [Aplying variables](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-08-variables)
+ - Exercise 5: Adjusting images. [Practicing more with content.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-05-ajustando-imagenes)
+ - Exercise 6: Everything in its box. [Using overflow.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-06-todo-en-su-caja)
+ - Exercise 7: Corchángulo Team. [Aligning inline elements.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-07-equipo-corchangulo) 
+ - Exercise 8: Variables CSS. [Aplying variables.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-08-variables)
  - Exercise 9: DevTools: Inspector.
  - Exercise 10: DevTools: Network.
 </details>
@@ -51,12 +51,12 @@ If you prefer to go to a specific one, you can search below:
 <details>
 <summary></summary>
  
- - Exercise 1: Flex and flex direction. []()
- - Exercise 2: []()
- - Exercise 3: []()
+ - Exercise 1: Flex and flex direction. [Practicing display and both axes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-01)
+ - Exercise 2: Flex wrap. [Using the flex-wrap property.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-02)
+ - Exercise 3: Justify content y align items. [Creating a horizontal list menu](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-03-justify-content-and-align-items)
  - Exercise 4: []()
  - Exercise 5: []()
- - Exercise 6: []()
+ - Exercise 6: [](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-06)
  - Exercise 7: []()
  - Exercise 8: []()
  - Exercise 9: []()
