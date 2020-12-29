@@ -10,8 +10,6 @@ I will add here all the exercises I do.
 You can go straight to all the module 1 exercises [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201)
 
 If you prefer to go to a specific one, you can search below:
-<details>
-<summary></summary>
 
 #### LESSON 1	Introduction to the Web
 <details open>
@@ -22,7 +20,7 @@ If you prefer to go to a specific one, you can search below:
 </details>
 
 #### LESSON 2	My first web page  
-<details> 
+<details open> 
 <summary> </summary>
 
  - Exercise 1: Organizing a weekly menu. [Creating tables.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-02-mi-primera-pagina-web/modulo-1-leccion-02-ejercicio-01-menu-semanal "Creating tables.")
@@ -34,7 +32,7 @@ If you prefer to go to a specific one, you can search below:
 </details>
   
 #### LESSON 3	Box model and DevTools
-<details>
+<details open>
 <summary></summary>
 
  - Exercise 1: Marking. [Using the &lt;mark&gt; tag](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-01-marcando "Using the mark tag") 
@@ -62,7 +60,7 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 7: []()
  - Exercise 8: []()
  - Exercise 9: []()
-</sumary>
+</details>
 
 #### LESSON 5 CSS Positioned Layout
 <details>
@@ -79,4 +77,4 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 9: []()
  - Exercise 10: []()
 </details>
-</details>
+
