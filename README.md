@@ -78,3 +78,76 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 10: []()
 </details>
 
+#### LESSON 6 Responsive Design
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
+
+#### LESSON 7 Version Control System
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
+
+#### LESSON 8 Task Automation
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+</details>
+
+#### LESSON 9 SASS
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
+
+#### LESSON 
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
