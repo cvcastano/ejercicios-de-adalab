@@ -66,8 +66,8 @@ If you prefer to go to a specific one, you can search below:
 <details open>
 <summary></summary>
  
- - Exercise 1: Horizontal list. [Creating a nav "in line"](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-05-posicionamiento/modulo-1-leccion-05-ejercicio-01-listas-horizontales)
- - Exercise 2: Shifting divs relatively. [Moving container boxes](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-05-posicionamiento/modulo-1-leccion-05-ejercicio-02-desplazando-divs-relativamente)
+ - Exercise 1: Horizontal list. [Creating a nav "in line."](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-05-posicionamiento/modulo-1-leccion-05-ejercicio-01-listas-horizontales)
+ - Exercise 2: Shifting divs relatively. [Moving container boxes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-05-posicionamiento/modulo-1-leccion-05-ejercicio-02-desplazando-divs-relativamente)
  - Exercise 3: []()
  - Exercise 4: []()
  - Exercise 5: []()
