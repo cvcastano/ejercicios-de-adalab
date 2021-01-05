@@ -48,7 +48,7 @@ If you prefer to go to a specific one, you can search below:
 </details>
  
 #### LESSON 4	FlexBox
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 1: Flex and flex direction. [Practicing display and both axes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-01)
@@ -63,7 +63,7 @@ If you prefer to go to a specific one, you can search below:
 </details>
 
 #### LESSON 5 CSS Positioned Layout
-<details>
+<details open>
 <summary></summary>
  
  - Exercise 1: []()
