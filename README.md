@@ -162,3 +162,6 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 9: []()
  - Exercise 10: []()
 </details>
+
+We are pleased to show you the result of our first group project carried out during the course at [Adalab](https://adalab.es).
+With this website, a truly be&lt;code&gt;tiful team introduces itself to the world of development.
