@@ -154,7 +154,7 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 1: Pink grid. [Imitating a given grid layout.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-11-grid-layout/module-1-lesson-11-ex-01-imitate-a-layout)
  - Exercise 2: Using span instead. [Using span.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-11-grid-layout/module-1-lesson-11-ex-02-using-span)
  - Exercise 3: Using viewport. [Grid from scratch using viewport.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-11-grid-layout/module-1-lesson-11-ex-03-using-viewport)
- - Exercise 4: []()
+ - Exercise 4: Each element in its place. [Using grid template areas.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-11-grid-layout/module-1-lesson-11-ex-04-each-element-in-its-place)
  - Exercise 5: []()
  - Exercise 6: []()
  - Exercise 7: []()
