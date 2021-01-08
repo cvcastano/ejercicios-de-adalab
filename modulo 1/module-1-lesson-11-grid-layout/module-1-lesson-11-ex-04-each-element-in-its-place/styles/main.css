@@ -11,10 +11,10 @@
     justify-content: center;
     align-items: center;
   }
-  .item--header {
+  .header {
     grid-area: header;
   }
-  .item--footer {
+  .footer {
     grid-area: footer;
   }
   
