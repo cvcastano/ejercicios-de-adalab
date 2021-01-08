@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: 20vh 60vh 20vh;
+}
+.item {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  background: pink;
+  grid-column: span 12;
+}
+.menu {
+  background: purple;
+  grid-column: span 4;
+  grid-row: 2 / 3;
+}
+.content {
+  background: red;
+  grid-column: 5 / span 13;
+  grid-row: 2 / 3;
+}
+.footer {
+  background: cyan;
+  grid-row: 3 / 4;
+  grid-column: span 12;
+}
