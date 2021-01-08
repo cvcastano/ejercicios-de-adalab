@@ -147,6 +147,22 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 5: []()
 </details>
 
+#### LESSON 11 CSS grid layout
+<details>
+<summary></summary>
+ 
+ - Exercise 1: Pink grid. [Imitating a given grid layout.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-11-grid-layout/module-1-lesson-11-ex-01-imitate-a-layout)
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
+
 #### LESSON 
 <details>
 <summary></summary>
