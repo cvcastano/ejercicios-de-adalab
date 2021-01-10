@@ -1,13 +1,38 @@
 * {
     margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: cyan;
+    height: 100vh;
+    font-family: fantasy;
 }
 
 .title {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: cyan;
     color: black;
     text-transform: uppercase;
+    position: fixed;
+    right: 30%;
+    top: 50%;
+}
+
+.popup {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 40vh;
+    width: 40vh;
+    font-size: large;
+    padding: 10px;
+    background-color: red;
+    border: 1px black;
+    box-shadow: 2px 2px 2px black;
+
+
+}
+.popup:hover {
+top: 25%;
+left: 50vw;
 }
