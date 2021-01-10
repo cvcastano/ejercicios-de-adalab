@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+.window {
+    height: 100vh;
+    width: 100vw;
+    background: url(https://image.freepik.com/free-photo/miniature-travelling-vintage-van-color-tone-tuned-photo_1401-394.jpg) center no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.title {
+animation-name: softfall;
+animation-duration: 4s;
+}
+@keyframes softfall {
+    from {
+        transform: translateY(-100vh);
+    }
+}
