@@ -12,7 +12,7 @@ You can go straight to all the module 1 exercises [here.](https://github.com/cvc
 If you prefer to go to a specific one, you can search below:
 
 #### LESSON 1	Introduction to the Web
-<details open>
+<details>
 <summary>
 </summary>
 
