@@ -1,0 +1,22 @@
+.container {
+    width: fit-content;
+    background-color: grey;
+    padding: 10px;
+}
+.titles {
+    margin-bottom: 30px;
+}
+label {
+
+}
+input {
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: larger;
+
+}
+.button {
+    background-color: blueviolet;
+    color: white;
+}
