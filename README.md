@@ -63,7 +63,7 @@ If you prefer to go to a specific one, you can search below:
 </details>
 
 #### LESSON 5 CSS Positioned Layout
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 1: Horizontal list. [Creating a nav "in line."](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-05-posicionamiento/modulo-1-leccion-05-ejercicio-01-listas-horizontales)
@@ -164,12 +164,12 @@ If you prefer to go to a specific one, you can search below:
 </details>
 
 #### LESSON 12 CSS animations
-<details>
+<details open>
 <summary></summary>
  
  - Exercise 1: Ease transitions. [Adding transitions.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-12-css-animations/module-1-lesson-12-ex-01-ease-transitions)
  - Exercise 2: Basic dashboard. [Adding transitions in a dashboard.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-12-css-animations/module-1-lesson-12-ex-02-transitions-in-a-dashboard)
- - Exercise 3: []()
+ - Exercise 3: Pop-up. [Adding a pop-up with CSS transitions.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-12-css-animations/module-1-lesson-12-ex-03-%20pop-up)
  - Exercise 4: []()
  - Exercise 5: []()
  - Exercise 6: []()
