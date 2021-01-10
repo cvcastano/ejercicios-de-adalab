@@ -163,6 +163,23 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 10: []()
 </details>
 
+#### LESSON 12 CSS animations
+<details>
+<summary></summary>
+ 
+ - Exercise 1: Ease transitions. [Adding transitions.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-12-css-animations/module-1-lesson-12-ex-01-ease-transitions)
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
+
+
 #### LESSON 
 <details>
 <summary></summary>
@@ -179,5 +196,3 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 10: []()
 </details>
 
-We are pleased to show you the result of our first group project carried out during the course at [Adalab](https://adalab.es).
-With this website, a truly be&lt;code&gt;tiful team introduces itself to the world of development.
