@@ -2,7 +2,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-body {
+main {
     background-color: cyan;
     height: 100vh;
     font-family: fantasy;
@@ -21,18 +21,22 @@ body {
     text-align: center;
     align-items: center;
     justify-content: center;
-    color: white;
     height: 40vh;
     width: 40vh;
-    font-size: large;
     padding: 10px;
-    background-color: red;
+    background-color: yellow;
     border: 1px black;
     box-shadow: 2px 2px 2px black;
+    position: absolute;
+    top: 97vh;
+    left: 28%;
+    visibility: hidden;
+    transition: ease-in top 3s;
 
 
 }
-.popup:hover {
+main:hover .popup {
+position: relative;
 top: 25%;
-left: 50vw;
+visibility: visible;
 }
