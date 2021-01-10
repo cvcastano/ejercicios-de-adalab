@@ -171,7 +171,7 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 2: Basic dashboard. [Adding transitions in a dashboard.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-12-css-animations/module-1-lesson-12-ex-02-transitions-in-a-dashboard)
  - Exercise 3: Pop-up. [Adding a pop-up with CSS transitions.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-12-css-animations/module-1-lesson-12-ex-03-%20pop-up)
  - Exercise 4: Keyframes. [Animating with keyframes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-12-css-animations/module-1-lesson-12-ex-04-keyframes)
- - Exercise 5: Form label placeholder. [Transitions in forms.]()
+ - Exercise 5: Form label placeholder. [Transitions in forms.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-12-css-animations/module-1-lesson-12-ex-05-form-label-placeholder)
  - Exercise 6: []()
  - Exercise 7: []()
  - Exercise 8: []()
