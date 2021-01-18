@@ -83,20 +83,19 @@ If you prefer to go to a specific one, you can open and search below.
  - Exercise 12: Good manners. []()
 </details>
 
-#### LESSON 6 Responsive Design
+#### LESSON 6 [Responsive Design](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-06-responsive-design)
 <details>
 <summary></summary>
  
- - Exercise 1: []()
+ - Exercise 1: Can't live without rems. [Using rems](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-06-responsive-design/module-1-lesson-06-ex-01-cant-live-without-rems)
  - Exercise 2: []()
  - Exercise 3: []()
- - Exercise 4: []()
- - Exercise 5: []()
- - Exercise 6: []()
+ - Exercise 4: [Using media queries.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-06-responsive-design/module-1-lesson-06-ex-04)
+ - Exercise 5: [Tag meta viewport.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-06-responsive-design/module-1-lesson-06-ex-05)
+ - Exercise 6: [Using a central column.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-06-responsive-design/module-1-lesson-06-ex-06-central-column)
  - Exercise 7: []()
- - Exercise 8: []()
+ - Exercise 8: [Using view width and view height](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-06-responsive-design/module-1-lesson-06-ex-08-vw-vh)
  - Exercise 9: []()
- - Exercise 10: []()
 </details>
 
 #### LESSON 7 Version Control System
@@ -125,14 +124,14 @@ If you prefer to go to a specific one, you can open and search below.
  - Exercise 4: []()
 </details>
 
-#### LESSON 9 SASS
+#### LESSON 9 [SASS](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-09-sass)
 <details>
 <summary></summary>
  
- - Exercise 1: []()
+ - Exercise 1: Variables everywhere. [Using variables.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-09-sass/module-1-lesson-09-ex-01)
  - Exercise 2: []()
  - Exercise 3: []()
- - Exercise 4: []()
+ - Exercise 4: Every pig to his own sty. [Using partials.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-09-sass/module-1-lesson-09-ex-04)
  - Exercise 5: []()
  - Exercise 6: []()
  - Exercise 7: []()
@@ -192,20 +191,18 @@ If you prefer to go to a specific one, you can open and search below.
 <details open>
 <summary></summary>
  
-#### LESSON 1
+#### LESSON 1 [Intro to programming](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming)
 <details open>
 <summary></summary>
  
- - Exercise 1: Outdated browser message [My first JavaScript](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-01-outdated-browser-message)
- - Exercise 2: []()
- - Exercise 3: []()
- - Exercise 4: []()
- - Exercise 5: []()
- - Exercise 6: []()
- - Exercise 7: []()
- - Exercise 8: []()
- - Exercise 9: []()
- - Exercise 10: []()
+ - Exercise 1: Outdated browser message. [My first JavaScript](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-01-outdated-browser-message)
+ - Exercise 2: Fixing errors. [Declaring a constant.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-02-fixing-errors)
+ - Exercise 3: Hello world. [Changing text.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-03-hello-world)
+ - Exercise 4: Selecting Adalabers. [Changing selections.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-04-selecting-adalabers)
+ - Exercise 5: Protect that password. [Protecting passwords.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-05-protect-that-password)
+ - Exercise 6: Lorem Ipsum. [Adding content.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-06-lorem-ipsum)
+ - Exercise 7: One, two, three, answer again. [Adding content in a list.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-07-one-two-three-answer-again)
+ - Exercise 8: disabling buttons. [Adding classes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-08-disabling-buttons)
 </details>
 
 #### LESSON 
