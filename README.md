@@ -140,7 +140,7 @@ If you prefer to go to a specific one, you can open and search below.
  - Exercise 10: []()
 </details>
 
-#### LESSON 10 Web based forms
+#### LESSON 10 [Web based forms](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-10-web-based-forms/module-1-lesson-10-ex-03-facebook-form)
 <details>
 <summary></summary>
  
@@ -151,7 +151,7 @@ If you prefer to go to a specific one, you can open and search below.
  - Exercise 5: []()
 </details>
 
-#### LESSON 11 CSS grid layout
+#### LESSON 11 [CSS grid layout](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-11-grid-layout)
 <details>
 <summary></summary>
  
@@ -167,7 +167,7 @@ If you prefer to go to a specific one, you can open and search below.
  - Exercise 10: []()
 </details>
 
-#### LESSON 12 CSS animations
+#### LESSON 12 [CSS animations](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-12-css-animations)
 <details open>
 <summary></summary>
  
