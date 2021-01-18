@@ -191,10 +191,10 @@ If you prefer to go to a specific one, you can open and search below.
 <summary></summary>
  
 #### LESSON 1
-<details>
+<details open>
 <summary></summary>
  
- - Exercise 1: Outdated browser message [My first Java script]()
+ - Exercise 1: Outdated browser message [My first JavaScript]()
  - Exercise 2: []()
  - Exercise 3: []()
  - Exercise 4: []()
