@@ -6,17 +6,26 @@
 .titles {
     margin-bottom: 30px;
 }
-label {
 
+.button {
+    background-color: blueviolet;
+    color: white;
 }
-input {
+.input {
     display: block;
-    padding: 10px;
+    width: 100%;
     margin-bottom: 10px;
     font-size: larger;
 
 }
-.button {
-    background-color: blueviolet;
-    color: white;
+.label {
+position: relative;
+top: 23px;
+left: 10px;
+}
+
+
+.input:focus + .label {
+    top: 0;
+
 }
