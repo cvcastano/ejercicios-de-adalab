@@ -168,7 +168,7 @@ If you prefer to go to a specific one, you can open and search below.
 </details>
 
 #### LESSON 12 [CSS animations](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-12-css-animations)
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 1: Ease transitions. [Adding transitions.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/module-1-lesson-12-css-animations/module-1-lesson-12-ex-01-ease-transitions)
