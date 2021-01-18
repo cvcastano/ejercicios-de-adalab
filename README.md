@@ -7,78 +7,80 @@ Oh my Code! how I love doing things for the first time!
 I will add here all the exercises I do.
 
 ## Module 1 ---- HTML & CSS 
-You can go straight to all the module 1 exercises [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201)
+You can go straight to all the module 1 exercises [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201)
 
 If you prefer to go to a specific one, you can open and search below.
 
 <details>
 <summary></summary>
  
-#### LESSON 1	Introduction to the Web
+#### LESSON 1	[Introduction to the Web](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-01-introduction-to-the-web/module-1-lesson-01-exs-1-to-6)
 <details>
 <summary>
 </summary>
 
- - Exercises 1 to 6. Gazpacho recipe. [First steps in HTML and CSS.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-01-intro-a-la-web/modulo-1-leccion-01-ejercicios-1-al-6 "First steps in HTML and CSS")
+ - Exercises 1 to 6. Gazpacho recipe. [First steps in HTML and CSS.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-01-introduction-to-the-web/module-1-lesson-01-exs-1-to-6)
 </details>
 
-#### LESSON 2	My first web page  
+#### LESSON 2	[My first web page](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-02-my-first-web-page)  
 <details> 
 <summary> </summary>
 
- - Exercise 1: Organizing a weekly menu. [Creating tables.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-02-mi-primera-pagina-web/modulo-1-leccion-02-ejercicio-01-menu-semanal "Creating tables.")
- - Exercise 2: A clasic page. [Creating a semantic page.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-02-mi-primera-pagina-web/modulo-1-leccion-02-ejercicio-02-una-pagina-clasica)
+ - Exercise 1: Organizing a weekly menu. [Creating tables.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-02-my-first-web-page/module-1-lesson-02-ex-01-weekly-menu)
+ - Exercise 2: A clasic page. [Creating a semantic page.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-02-my-first-web-page/module-1-lesson-02-ex-02-a-semantic-page)
  - Exercise 3: Colour me those links. Learning about inheritance in CSS.   
  - Exercise 4: Inheritance for everyone. Using inheritance for a neater code.
- - Exercise 5: Knowing specificity. [Practicing specificity in CSS.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-02-mi-primera-pagina-web/modulo-1-leccion-02-ejercicio-05-especificidad "Practicing the specificity in CSS.")
+ - Exercise 5: Knowing specificity. [Practicing specificity in CSS.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-02-my-first-web-page/module-1-lesson-02-ex-05-specificity)
  - Exercise 6: Background property.
 </details>
   
-#### LESSON 3	Box model and DevTools
+#### LESSON 3	[Box model and DevTools](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools)
 <details>
 <summary></summary>
 
- - Exercise 1: Marking. [Using the &lt;mark&gt; tag.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-01-marcando "Using the mark tag") 
- - Exercise 2: Displays. [Changing displays.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-02-displays)
- - Exercise 3: Image in a paragraph. [Adding content.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-03-imagen-en-parrafo)
- - Exercise 4: Image between paragraphs. [Practicing adding content.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-04-imagen-entre-parrafos)
- - Exercise 5: Adjusting images. [Practicing more with content.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-05-ajustando-imagenes)
- - Exercise 6: Everything in its box. [Using overflow.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-06-todo-en-su-caja)
- - Exercise 7: Corchángulo Team. [Aligning inline elements.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-07-equipo-corchangulo) 
- - Exercise 8: Variables CSS. [Aplying variables.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-03-modelo-de-caja-y-herramientas/modulo-1-leccion-03-ejercicio-08-variables)
+ - Exercise 1: Marking. [Using the &lt;mark&gt; tag.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools/module-1-lesson-03-ex-01-marking) 
+ - Exercise 2: Displays. [Changing displays.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools/module-1-lesson-03-ex-02-displays)
+ - Exercise 3: Image in a paragraph. [Adding content.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools/module-1-lesson-03-ex-03-image-in-a-paragraph)
+ - Exercise 4: Image between paragraphs. [Practicing adding content.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools/module-1-lesson-03-ex-04-image-between-paragraphs)
+ - Exercise 5: Adjusting images. [Practicing more with content.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools/module-1-lesson-03-ex-05-adjusting-images)
+ - Exercise 6: Everything in its box. [Using overflow.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools/module-1-lesson-03-ex-06-everything-in-its-box)
+ - Exercise 7: Corchángulo Team. [Aligning inline elements.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools/module-1-lesson-03-ex-07-corchangulo-team) 
+ - Exercise 8: Variables CSS. [Aplying variables.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools/module-1-lesson-03-ex-08-variables)
  - Exercise 9: DevTools: Inspector.
  - Exercise 10: DevTools: Network.
 </details>
  
-#### LESSON 4	FlexBox
+#### LESSON 4	[FlexBox](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-04-flexbox)
 <details>
 <summary></summary>
  
- - Exercise 1: Flex and flex direction. [Practicing display and both axes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-01)
- - Exercise 2: Flex wrap. [Using the flex-wrap property.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-02)
- - Exercise 3: Justify content y align items. [Creating a horizontal list menu.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-03-justify-content-and-align-items)
+ - Exercise 1: Flex and flex direction. [Practicing display and both axes.](hhttps://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-04-flexbox/module-1-lesson-04-ex-01-flex-and-flex-direction)
+ - Exercise 2: Flex wrap. [Using the flex-wrap property.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-04-flexbox/module-1-lesson-04-ex-02-flex-wrap)
+ - Exercise 3: Justify content y align items. [Creating a horizontal list menu.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-04-flexbox/module-1-lesson-04-ex-03-justify-content-and-align-items)
  - Exercise 4: Order [Creating a news list with diverse content.]
  - Exercise 5: Flex, grow, shrink and basis. [Using min-height & vh.]
- - Exercise 6: Recreating a sketch. [Using FlexBox.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-04-flexbox/modulo-1-leccion-04-ejercicio-06)
+ - Exercise 6: Recreating a sketch. [Using FlexBox.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-04-flexbox/module-1-lesson-04-ex-06-recreating-a-sketch)
  - Exercise 7: Another sketch. [More FlexBox.]
  - Exercise 8: One more sketch. [Even more Flexbox.]
  - Exercise 9: Changing sizes. [Using vw and vh]
 </details>
 
-#### LESSON 5 CSS Positioned Layout
+#### LESSON 5 CSS [Positioned Layout](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-05-positioned-layout)
 <details>
 <summary></summary>
  
- - Exercise 1: Horizontal list. [Creating a nav "in line."](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-05-posicionamiento/modulo-1-leccion-05-ejercicio-01-listas-horizontales)
- - Exercise 2: Shifting divs relatively. [Moving container boxes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201/modulo-1-leccion-05-posicionamiento/modulo-1-leccion-05-ejercicio-02-desplazando-divs-relativamente)
- - Exercise 3: []()
- - Exercise 4: []()
- - Exercise 5: []()
- - Exercise 6: []()
- - Exercise 7: []()
- - Exercise 8: []()
- - Exercise 9: []()
- - Exercise 10: []()
+ - Exercise 1: Horizontal list. [Creating a nav "in line."](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-05-positioned-layout/module-1-lesson-05-ex-01-horizontal-list)
+ - Exercise 2: Shifting divs relatively. [Moving container boxes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-05-positioned-layout/module-1-lesson-05-ex-02-shifting-divs-relatively)
+ - Exercise 3: Come with me. [Using scroll.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-05-positioned-layout/module-1-lesson-05-ex-03-come-with-me)
+ - Exercise 4: Transformers. [Transformations.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-05-positioned-layout/module-1-lesson-05-ex-04-transformers)
+ - Exercise 5: Boxes over boxes. [Playing with position.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-05-positioned-layout/module-1-lessson-05-ex-05-boxes-over-boxes)
+ - Exercise 6: Cookies notice. [Position fixed.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-05-positioned-layout/module-1-lesson-05-ex-06-cookies-notice)
+ - Exercise 7: This text needs air. [Using max-width] ()
+ - Exercise 8: Give me PDFs. [Download link.] ()
+ - Exercise 9: This is an article. [Recreating a newspaper article.] ()
+ - Exercise 10: Web technologies. []()
+ - Exercise 11: A simple web. []()
+ - Exercise 12: Good manners. []()
 </details>
 
 #### LESSON 6 Responsive Design
