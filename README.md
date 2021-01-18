@@ -10,7 +10,9 @@ I will add here all the exercises I do.
 You can go straight to all the module 1 exercises [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201)
 
 If you prefer to go to a specific one, you can search below:
-
+<details>
+<summary></summary>
+ 
 #### LESSON 1	Introduction to the Web
 <details>
 <summary>
@@ -179,6 +181,7 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 10: []()
 </details>
 
+</details>
 
 #### LESSON 
 <details>
