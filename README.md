@@ -194,7 +194,7 @@ If you prefer to go to a specific one, you can open and search below.
 <details open>
 <summary></summary>
  
- - Exercise 1: Outdated browser message [My first JavaScript]()
+ - Exercise 1: Outdated browser message [My first JavaScript](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-01-outdated-browser-message)
  - Exercise 2: []()
  - Exercise 3: []()
  - Exercise 4: []()
