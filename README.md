@@ -9,7 +9,8 @@ I will add here all the exercises I do.
 ## Module 1 ---- HTML & CSS 
 You can go straight to all the module 1 exercises [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/modulo%201)
 
-If you prefer to go to a specific one, you can search below:
+If you prefer to go to a specific one, you can open and search below.
+
 <details>
 <summary></summary>
  
@@ -182,6 +183,28 @@ If you prefer to go to a specific one, you can search below:
 </details>
 
 </details>
+ 
+</details>
+
+## Module 2 ---- JavaScript
+<details open>
+<summary></summary>
+ 
+#### LESSON 1
+<details>
+<summary></summary>
+ 
+ - Exercise 1: Outdated browser message [My first Java script]()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
 
 #### LESSON 
 <details>
@@ -199,3 +222,4 @@ If you prefer to go to a specific one, you can search below:
  - Exercise 10: []()
 </details>
 
+</details>
