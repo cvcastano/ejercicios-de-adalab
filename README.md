@@ -4,12 +4,12 @@ Hi! This is **my first repository**, my first **Readme** and the first time I us
 
 Oh my Code! how I love doing things for the first time!
 
-I will add here all the exercises I do.
+Adding here all the exercises I do makes my life easier when it comes to reviewing the contents I'm learning.  
 
 ## Module 1 ---- HTML & CSS 
-You can go straight to all the module 1 exercises [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201)
+All the module 1 exercises are [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201)
 
-If you prefer to go to a specific one, you can open and search below.
+To go to a specific one, open and search below.
 
 <details>
 <summary></summary>
