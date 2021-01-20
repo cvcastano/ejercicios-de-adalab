@@ -192,7 +192,7 @@ To go to a specific one, open and search below.
 <summary></summary>
  
 #### LESSON 1 [Intro to programming](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming)
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 1: Outdated browser message. [My first JavaScript](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-01-outdated-browser-message)
@@ -205,8 +205,25 @@ To go to a specific one, open and search below.
  - Exercise 8: disabling buttons. [Adding classes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-08-disabling-buttons)
 </details>
 
+#### LESSON 2 [Intro to programming 2](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2)
+<details open>
+<summary></summary>
+ 
+ - Exercise 2: [Dayana rules (not) :).](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-02-dayana-rules-not)
+ - Exercise 3: [Fruit price.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-03-fruit-price)
+ - Exercise 4: [Pay me girl.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-04-pay-me-girl)
+ - Exercise 5: [Life hours.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-05-life-hours)
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
+
+
+
 #### LESSON 
-<details>
+<details open>
 <summary></summary>
  
  - Exercise 1: []()
