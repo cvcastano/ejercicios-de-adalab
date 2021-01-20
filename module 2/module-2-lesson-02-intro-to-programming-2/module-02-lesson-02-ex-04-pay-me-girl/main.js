@@ -1,9 +1,13 @@
 'use strict';
-const total = '128';
-const people = '9';
-let each = (total - 2) / people;
-let ana = each + 2;
-let text = 'Cada una paga ';
-let textAna= 'Ana paga '
+const total = 128;
+const people = 9;
+const anasShot = 2;
+
+const each = (total - anasShot) / people;
+const ana = each + 2;
+
+const text = 'Cada una paga ';
+const textAna= 'Ana paga '
+
 console.log (text + each + '€');
 console.log (textAna + ana + '€');
