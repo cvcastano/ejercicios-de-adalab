@@ -217,13 +217,13 @@ To go to a specific one, open and search below.
  - Exercise 7: []()
  - Exercise 8: []()
  - Exercise 9: []()
- - Exercise 10: []()
+ - Exercise 10: [Picking up numbers from HTML.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-10-picking-up-numbers-from-HTML)
 </details>
 
 
 
 #### LESSON 
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 1: []()
