@@ -206,7 +206,7 @@ To go to a specific one, open and search below.
 </details>
 
 #### LESSON 2 [Intro to programming 2](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2)
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 2: [Dayana rules (not) :).](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-02-dayana-rules-not)
@@ -221,6 +221,22 @@ To go to a specific one, open and search below.
 </details>
 
 
+
+#### LESSON 3 [Conditionals](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals)
+<details open>
+<summary></summary>
+ 
+ - Exercise 1: [Noone without avatar.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-01-noone-without-avatar)
+ - Exercise 2: [Access control.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-02-access-control)
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
 
 #### LESSON 
 <details>
