@@ -252,6 +252,7 @@ To go to a specific one, open and search below.
  - Exercise 8: []()
  - Exercise 9: []()
  - Exercise 10: []()
+ - [T-shirt e-shop practice exercise.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-t-shirt-e-shop-practice-exercise)
 </details>
 
 #### LESSON 
