@@ -245,7 +245,7 @@ To go to a specific one, open and search below.
  - Exercise 1: [Times for function.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-01-times-for-function)
  - Exercise 2: [Average out function.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-02-average-out-function)
  - Exercise 3: [Ticket with VAT.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-03-ticket-with-vat)
- - Exercise 4: []()
+ - Exercise 4: [Odds or evens.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-04-odd-even)
  - Exercise 5: []()
  - Exercise 6: []()
  - Exercise 7: []()
