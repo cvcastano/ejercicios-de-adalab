@@ -7,7 +7,7 @@ Oh my Code! how I love doing things for the first time!
 Adding here all the exercises I do makes my life easier when it comes to reviewing the contents I'm learning.  
 
 ## Module 1 ---- HTML & CSS 
-All the module 1 exercises are [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201)
+All the module 1 exercises are [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201){:target="_blank"}
 
 To go to a specific one, open and search below.
 
