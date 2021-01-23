@@ -227,9 +227,9 @@ To go to a specific one, open and search below.
  
  - Exercise 1: [Noone without avatar.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-01-noone-without-avatar)
  - Exercise 2: [Access control.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-02-access-control)
- - Exercise 3: []()
- - Exercise 4: []()
- - Exercise 5: []()
+ - Exercise 3: [Complete the conditions.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-03-complete-the-conditions)
+ - Exercise 4: [Dog age to human age.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-04-dog-age-to-human-age)
+ - Exercise 5: [Rainbow notifications.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-05-rainbow-notifications)
  - Exercise 6: []()
  - Exercise 7: []()
  - Exercise 8: []()
