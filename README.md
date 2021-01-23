@@ -215,10 +215,11 @@ To go to a specific one, open and search below.
  - Exercise 5: [Life hours.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-05-life-hours)
  - Exercise 6: [Hello, Lola.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-06-hello-adalaber)
  - Exercise 7: [Interpolate Lola.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-07-interpolate-lola)
- - Exercise 8: []()
- - Exercise 9: []()
+ - Exercise 8: [Bitches list.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-08-bitches-list)
+ - Exercise 9: [Number of letters in your name.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-09-number-of-letters-in-your-name)
  - Exercise 10: [Picking up numbers from HTML.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-10-picking-up-numbers-from-HTML)
 </details>
+- Exercise 11: [String plus number.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2/module-02-lesson-02-ex-11-string-plus-number)
 
 
 
