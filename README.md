@@ -258,16 +258,17 @@ To go to a specific one, open and search below.
 <details open>
 <summary></summary>
  
- - Exercise 1: [Hello click.]()
- - Exercise 2: [What's your name?]()
- - Exercise 3: [Give me ipsum.]()
- - Exercise 4: [Colored scroll.]()
- - Exercise 5: [Playing with the keyboard.]()
- - Exercise 6: [Instant info.]()
- - Exercise 7: [Another button.]()
- - Exercise 8: [Favourites.]()
- - Exercise 9: [What are we watching tonight?]()
- - Exercise 10: [Stop that link.]()
+ - Exercise 1: [Hello click.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-01-hello-click)
+ - Exercise 2: [What's your name?](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-02-what-is-your-name)
+ - Exercise 3: [Give me ipsum.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-03-give-me-ipsum)
+ - Exercise 4: [Colored scroll.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-04-colored-scroll)
+ - Exercise 5: [Playing with the keyboard.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-05-playing-with-the-keyboard)
+ - Exercise 6: [Instant info.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-06-instant-info)
+ - Exercise 7: [Another button.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-07-another-button)
+ - Exercise 8: [More buttons.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-08-more-buttons)
+ - Exercise 9: [Favourites.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-09-favourites)
+ - Exercise 10: [What are we watching tonight?](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-10-what-are-we-watching-tonight)
+ - Exercise 11: [Stop that link.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-11-stop-that-link)
 </details>
 
 #### LESSON 
