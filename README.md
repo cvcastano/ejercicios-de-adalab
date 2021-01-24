@@ -238,7 +238,7 @@ To go to a specific one, open and search below.
 </details>
 
 #### LESSON 4 [Functions](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions)
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 1: [Times for function.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-01-times-for-function)
@@ -252,6 +252,22 @@ To go to a specific one, open and search below.
  - Exercise 9: []()
  - Exercise 10: []()
  - [T-shirt e-shop practice exercise.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-t-shirt-e-shop-practice-exercise)
+</details>
+
+#### LESSON 5 [Events]()
+<details open>
+<summary></summary>
+ 
+ - Exercise 1: [Hello click.]()
+ - Exercise 2: [What's your name?]()
+ - Exercise 3: [Give me ipsum.]()
+ - Exercise 4: [Colored scroll.]()
+ - Exercise 5: [Playing with the keyboard.]()
+ - Exercise 6: [Instant info.]()
+ - Exercise 7: [Another button.]()
+ - Exercise 8: [Favourites.]()
+ - Exercise 9: [What are we watching tonight?]()
+ - Exercise 10: [Stop that link.]()
 </details>
 
 #### LESSON 
