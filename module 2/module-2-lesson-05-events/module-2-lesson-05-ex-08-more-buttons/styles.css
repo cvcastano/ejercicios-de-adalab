@@ -1,0 +1,8 @@
+.custom {
+  background-color: purple;
+  color: rosybrown;
+  border: solid seagreen 3px;
+  border-radius: 25%;
+  height: 50px;
+  width: 100px;
+}
