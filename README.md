@@ -254,8 +254,8 @@ To go to a specific one, open and search below.
  - [T-shirt e-shop practice exercise.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-t-shirt-e-shop-practice-exercise)
 </details>
 
-#### LESSON 5 [Events]()
-<details open>
+#### LESSON 5 [Events](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events)
+<details>
 <summary></summary>
  
  - Exercise 1: [Hello click.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-01-hello-click)
@@ -269,6 +269,19 @@ To go to a specific one, open and search below.
  - Exercise 9: [Favourites.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-09-favourites)
  - Exercise 10: [What are we watching tonight?](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-10-what-are-we-watching-tonight)
  - Exercise 11: [Stop that link.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events/module-2-lesson-05-ex-11-stop-that-link)
+</details>
+
+#### LESSON 6 [Objects](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects)
+<details open>
+<summary></summary>
+ 
+ - Exercise 1: [Adalabers bio.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects/module-2-lesson-06-ex-01-adalabers-bio)
+ - Exercise 2: [On the run.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects/module-2-lesson-06-ex-02-on-the-run)
+ - Exercise 3: [Adalabers bio II.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects/module-2-lesson-06-ex-03-%20adalabers-bio2)
+ - Exercise 4: [Event investigation.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects/module-2-lesson-06-ex-04-event-investigation)
+ - Exercise 5: [Elements investigation.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects/module-2-lesson-06-ex-05-elements-investigation)
+ - Exercise 6: [Creating a pear basket.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects/module-2-lesson-06-ex-06-creating-a-pear-basket)
+ - Exercise 7: [User data structure.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects/module-2-lesson-06-ex-07-user-data-structure)
 </details>
 
 #### LESSON 
