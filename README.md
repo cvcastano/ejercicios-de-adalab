@@ -272,7 +272,7 @@ To go to a specific one, open and search below.
 </details>
 
 #### LESSON 6 [Objects](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects)
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 1: [Adalabers bio.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects/module-2-lesson-06-ex-01-adalabers-bio)
@@ -282,6 +282,22 @@ To go to a specific one, open and search below.
  - Exercise 5: [Elements investigation.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects/module-2-lesson-06-ex-05-elements-investigation)
  - Exercise 6: [Creating a pear basket.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects/module-2-lesson-06-ex-06-creating-a-pear-basket)
  - Exercise 7: [User data structure.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-06-objects/module-2-lesson-06-ex-07-user-data-structure)
+</details>
+
+#### LESSON 7 [Arrays and loops](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops)
+<details open>
+<summary></summary>
+ 
+ - Exercise 1: [Movies.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-01-movies)
+ - Exercise 2: [Exercise 2](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-02)
+ - Exercise 3: [Exercise 3](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-03)
+ - Exercise 4: [Hunter's moon.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-04-hunters-moon)
+ - Exercise 5: [Average.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-05-average)
+ - Exercise 6: [A lot in common.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-06-a-lot-in%20common)
+ - Exercise 7: [A story of Adalabers.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-07-a-story-of-adalabers)
+ - Exercise 8: [Alarm buttons.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-08-alarm-buttons)
+ - Exercise 9: [Exercise 9](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-09)
+ - Exercise 10: [Exercise 10](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-10)
 </details>
 
 #### LESSON 
