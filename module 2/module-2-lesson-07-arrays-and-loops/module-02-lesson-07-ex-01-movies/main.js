@@ -1,4 +1,6 @@
 'use strict';
+
+function workWithMovies () {
 // crear un array movies con un listado de 3 películas que te gusten
 const movies = ['pulpFiction', 'seven', 'goneWithTheWind'];
 
@@ -13,9 +15,7 @@ movies[0] = 'findingNemo';
 
 // mostrar el array completo en la consola
 console.log(movies);
-
-// encapsular todo el código que hemos creado en una función que no toma parámetros y que llamaremos workWithMovies. Ejecutamos la función para comprobar que se muestran los mensajes en la consola correspondientes.
-
-function workWithMovies () {
-
 }
+// encapsular todo el código que hemos creado en una función que no toma parámetros y que llamaremos workWithMovies. Ejecutamos la función para comprobar que se muestran los mensajes en la consola correspondientes (de la línea 3 a la 21).
+
+workWithMovies ();
