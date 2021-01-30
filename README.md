@@ -291,7 +291,7 @@ To go to a specific one, open and search below.
 <summary></summary>
  
  - Exercise 1: [Little numbers.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-01-little-numbers)
- - Exercise 2: [Get reversed.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-02-get-reversed)
+ - Exercise 2: [srebmun elttiL.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-02-srebmun-elttil)
  - Exercise 3: [The numbers.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-03-the-numbers)
  - Exercise 4: [My to-do list.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-04-my-to-do-list)
  - Exercise 5: [Create your X-mas tree.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-05-create-your-x-mas-tree)
