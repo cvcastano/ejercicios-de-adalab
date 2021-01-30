@@ -15,6 +15,16 @@ paragraphElement.innerHTML = `Number of things to do: ${tasksAmount}`;
 // Pintar todas las tareas en pantalla.
 const listElement = document.querySelector ('ul');
 listElement.innerHTML = '';
+function paintTasks () {
+    for (let i = 0; i< tasks.length; i++) {
+    if (tasks[i].completed === false) {
+        listElement.classList.add ('cross_off');
+ 
+    };
+}
+}
+
+
 
 // Tachar las ya realizadas.
 // Permitir marcar una tarea como 'completa' o 'incompleta'.
