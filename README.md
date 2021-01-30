@@ -98,21 +98,7 @@ To go to a specific one, open and search below.
  - Exercise 9: []()
 </details>
 
-#### LESSON 7 Version Control System
-<details>
-<summary></summary>
- 
- - Exercise 1: []()
- - Exercise 2: []()
- - Exercise 3: []()
- - Exercise 4: []()
- - Exercise 5: []()
- - Exercise 6: []()
- - Exercise 7: []()
- - Exercise 8: []()
- - Exercise 9: []()
- - Exercise 10: []()
-</details>
+#### LESSON 7 [Version Control System](https://github.com/cvcastano/modulo-1-leccion-7-control-de-versiones)
 
 #### LESSON 8 Task Automation
 <details>
@@ -205,7 +191,7 @@ To go to a specific one, open and search below.
  - Exercise 8: disabling buttons. [Adding classes.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming/module-02-lesson-01-ex-08-disabling-buttons)
 </details>
 
-#### LESSON 2 [Intro to programming 2](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2)
+#### LESSON 2 [Intro to programming II](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-02-intro-to-programming-2)
 <details>
 <summary></summary>
  
@@ -285,7 +271,7 @@ To go to a specific one, open and search below.
 </details>
 
 #### LESSON 7 [Arrays and loops](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops)
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 1: [Movies.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-01-movies)
@@ -298,6 +284,20 @@ To go to a specific one, open and search below.
  - Exercise 8: [Alarm buttons.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-08-alarm-buttons)
  - Exercise 9: [Exercise 9](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-09)
  - Exercise 10: [Exercise 10](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-10)
+</details>
+
+#### LESSON 9 [Arrays and loops II](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2)
+<details open>
+<summary></summary>
+ 
+ - Exercise 1: [Little numbers.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-01-little-numbers)
+ - Exercise 2: [Get reversed.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-02-get-reversed)
+ - Exercise 3: [The numbers.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-03-the-numbers)
+ - Exercise 4: [My to-do list.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-04-my-to-do-list)
+ - Exercise 5: [Create your X-mas tree.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-05-create-your-x-mas-tree)
+ - Exercise 6: [Improve your X-mas tree.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-06-improve-your-x-mas-tree)
+ - Exercise 7: [That is a spruce!](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-07-that-is-a-spruce)
+
 </details>
 
 #### LESSON 
