@@ -1,4 +1,9 @@
-# Welcome to My First Repository!    ![](https://github.com/cvcastano/my-web/blob/master/images/readme_cat.gif)
+# Welcome to My First Repository!   
+   
+   <a href="https://github.com/cvcastano/ejercicios-de-adalab/commits/master">
+    <img src="https://img.shields.io/github/last-commit/cvcastano/ejercicios-de-adalab.svg?style=flat-square&logo=github&logoColor=purple"
+         alt="GitHub last commit"/>
+           </a>
 
 Hi! This is **my first repository**, my first **Readme** and the first time I use **Markdown**.
 
