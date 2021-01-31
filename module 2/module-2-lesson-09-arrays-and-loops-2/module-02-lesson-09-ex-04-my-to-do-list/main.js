@@ -7,22 +7,29 @@ const tasks = [
         completed: false}
 ];
 
-// Nuestra misión es:
 // Mostrar una frase que indique cuántas tareas hay.
-const paragraphElement = document.querySelector ('p');
+const body = document.querySelector ('body');
 const tasksAmount = tasks.length;
-paragraphElement.innerHTML = `Number of things to do: ${tasksAmount}`;
+body.innerHTML += `<p>Number of things to do: ${tasksAmount}</p>`;
+
 // Pintar todas las tareas en pantalla.
-const listElement = document.querySelector ('ul');
-listElement.innerHTML = '';
-function paintTasks () {
-    for (let i = 0; i< tasks.length; i++) {
-    if (tasks[i].completed === false) {
-        listElement.classList.add ('cross_off');
+body.innerHTML += '<ul></ul>'; //crear una lista
+const listElement = document.querySelector('ul'); //seleccionar la lista
+//listElement.innerHTML += `<li>${tasks[0].name}</li>`; //pintar 1ª tarea en un elemento de la lista 
+                                        //no sé cambiar la clase sólo a esa tarea para tachar
+function paintTasks () {     
+for (let i = 0; i< tasks.length; i++) {
+listElement.innerHTML += `<li>${tasks[i].name}</li>`; 
+};
+}
+paintTasks ();                          //pintar todas las tareas
+
+
+// if ((listElement.innerHTML.completed) === true){    
+// listElement.classList.add('cross_off'); 
+
+
  
-    };
-}
-}
 
 
 
