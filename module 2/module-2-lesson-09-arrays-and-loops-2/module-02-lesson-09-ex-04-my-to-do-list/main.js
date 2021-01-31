@@ -13,30 +13,26 @@ const tasksAmount = tasks.length;
 body.innerHTML += `<p>Number of things to do: ${tasksAmount}</p>`;
 
 // Pintar todas las tareas en pantalla.
-body.innerHTML += '<ul></ul>'; //crear una lista
-const listElement = document.querySelector('ul'); //seleccionar la lista
+body.innerHTML += '<ul></ul>';                          //crear una lista
+const listElement = document.querySelector('ul');       //seleccionar la lista
 //listElement.innerHTML += `<li>${tasks[0].name}</li>`; //pintar 1ª tarea en un <li>
-                                        //no sé tachar sólo esa tarea
+                                                        //NO HE SABIDO TACHAR SÓLO ESA TAREA
 function paintTasks () {     
 for (let i = 0; i< tasks.length; i++) {
 listElement.innerHTML += `<li>${tasks[i].name}</li>`;   //pintar todas las tareas
-let lastListItem = listElement.querySelector('li:last-child');
-console.log (lastListItem);                     //por qué no muestra el último??
- if (tasks[i].completed === true){ 
-     lastListItem.classList.add('cross_off');
+let lastListItem = listElement.querySelector('li:last-child'); //crear variable del último <li>     
+                                                            //(al ir x orden, los recorrerá todos)
+console.log (lastListItem);                             //POR QUÉ NO MUESTRA EL ÚLTIMO??
+if (tasks[i].completed === true) { 
+     lastListItem.classList.add ('cross_off');           // Tachar las ya realizadas
  }
+ listElement.innerHTML += '<input type="checkbox"></input>'; //add inputs a los <li>
 }
 }
-paintTasks ();                          //ejecuta función paintTasks
-// listElement.classList.add('cross_off');  //todas las tareas tachadas
+paintTasks ();                                          //ejecutar función paintTasks
+// listElement.classList.add('cross_off');              //tachar todas las tareas   
 
-   
- 
 
 
  
-
-
-
-// Tachar las ya realizadas.
 // Permitir marcar una tarea como 'completa' o 'incompleta'.
