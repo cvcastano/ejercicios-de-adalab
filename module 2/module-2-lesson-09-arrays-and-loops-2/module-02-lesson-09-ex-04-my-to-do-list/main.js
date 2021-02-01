@@ -23,7 +23,7 @@ function paintTasks() {
 
         listElement.innerHTML += `<li>${eachTask}</li>`;            // pintar todas las tareas
         let listItem = listElement.querySelector('li:last-child');  // crear variable del último <li>(al ir x orden, los recorre todos)
-
+                                                                    // * MIRAR EL "FOR OF"            
         if (tasks[i].completed === true) {
             listItem.classList.add('cross_off');                    // Tachar las ya realizadas
             const checked = `<input type="checkbox" checked>`;      // variable del box con check
@@ -63,3 +63,7 @@ let outcome = document.querySelector('.outcome');
 outcome.innerHTML = `Tienes ${tasksAmount} tareas. ${tasksDone.length} completadas y ${tasksToDo} por realizar.`
 
 handleStatus ();
+/* Para que la info siempre esté actualizada en la variable inicial
+add event listener a cada elemento de la lista con un 'for of'
+
+*/
