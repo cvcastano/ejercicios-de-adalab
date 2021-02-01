@@ -311,7 +311,7 @@ To go to a specific one, open and search below.
  
  - Exercise 1: [Random movie.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-01-random-movie)
  - Exercise 2: [Chihuahuas everywhere.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-02-chihuahuas-everywhere)
- - Exercise 3: [New API](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-03-new-api)
+ - Exercise 3: [Another API](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-03-another-api)
  - Exercise 4: [Repos list.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-04-repos-list)
  - Exercise 5: [Properties type.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-05-properties-type)
  - Exercise 6: [Dog breed.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-06-dog-breed)
