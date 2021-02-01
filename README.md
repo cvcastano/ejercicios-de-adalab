@@ -309,7 +309,7 @@ To go to a specific one, open and search below.
 <details open>
 <summary></summary>
  
- - Exercise 1: [Random number.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-01-random-number)
+ - Exercise 1: [Random movie.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-01-random-movie)
  - Exercise 2: [Chihuahuas everywhere.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-02-chihuahuas-everywhere)
  - Exercise 3: [New API](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-03-new-api)
  - Exercise 4: [Repos list.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-04-repos-list)
