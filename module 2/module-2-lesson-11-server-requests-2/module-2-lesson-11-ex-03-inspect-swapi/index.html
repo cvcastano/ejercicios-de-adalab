@@ -2,10 +2,27 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Inspect SWAPI</title>
 </head>
 <body>
-    <h1></h1>
+    <h1>Make requests to the SWAPI and get information from the Network tab to answer the following questions:</h1>
+    <ul>
+        <li>where is the request method
+            <ul>clicking on the Name, then Headers </ul>
+        </li>
+        <li>the response code (remember that 200 is OK)
+            <ul>also Headers, but you can also see it in Status</ul>
+        </li>
+        <li>in the request headers look for a user-agent call, what can you tell about its content?
+            <ul>This user agent string belongs to Chrome browser running on Android OS. The browser is developed by Google Inc and renders web pages using the Blink engine.</ul>
+        </li>
+        <li>the server response in JSON
+            <ul>{"name":"Death Star","model":"DS-1 Orbital Battle Station","manufacturer":"Imperial Department of Military Research, Sienar Fleet Systems","cost_in_credits":"1000000000000","length":"120000","max_atmosphering_speed":"n/a","crew":"342,953","passengers":"843,342","cargo_capacity":"1000000000000","consumables":"3 years","hyperdrive_rating":"4.0","MGLT":"10","starship_class":"Deep Space Mobile Battlestation","pilots":[],"films":["http://swapi.dev/api/films/1/"],"created":"2014-12-10T16:36:50.509000Z","edited":"2014-12-20T21:26:24.783000Z","url":"http://swapi.dev/api/starships/9/"}</ul>
+        </li>
+        <li>a lot of requests appear in the Network tab  when reloading the page; could you filter out only the AJAX ones? Hint: before fetch the requests were made with the XMLHttpRequest (XHR) object.
+            <ul>In the filter tab, click on XHR</ul>
+        </li>
+    </ul>
 
 <script type="text/javascript" src="./main.js"></script>
 </body>
