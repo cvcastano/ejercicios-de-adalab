@@ -306,7 +306,7 @@ To go to a specific one, open and search below.
 </details>
 
 #### LESSON 10 [Server Requests](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests)
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 1: [Random movie.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-01-random-movie)
@@ -317,6 +317,22 @@ To go to a specific one, open and search below.
  - Exercise 6: [Dog breed.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-06-dog-breed)
  - Exercise 7: [Rendering images.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-07-rendering-images)
  - Exercise 8: [Hunting errors.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests/module-02-lesson-10-ex-08-hunting-errors)
+</details>
+
+#### LESSON 11 [Server Requests II](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2)
+<details open>
+<summary></summary>
+ 
+ - Exercise 1: [Star Wars API.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-01-star-wars-api)
+ - Exercise 2: [Star Wars Web.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-02-star-wars-web)
+ - Exercise 3: [Inspect SWAPI.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-03-inspect-swapi)
+ - Exercise 4: [Knowing local storage.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-04-knowing-local-storage)
+ - Exercise 5: [My favorite theme.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-05-my-favorite-theme)
+ - Exercise 6: [A true form.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-06-a-true-form)
+ - Exercise 7: [Good practices on Local Storage.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-07-good-practices-on-ls)
+ - Exercise 8: [Star Wars server searches.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-08-sw-server-searches)
+ - Exercise 9: [Linter errors.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-09-linter-errors)
+ - Exercise 10: [Give me kitty gifs.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-10-give-me-kitty-gifs)
 </details>
 
 #### LESSON 
