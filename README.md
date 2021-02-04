@@ -320,7 +320,7 @@ To go to a specific one, open and search below.
 </details>
 
 #### LESSON 11 [Server Requests II](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2)
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 1: [Star Wars API.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-01-star-wars-api)
@@ -333,6 +333,18 @@ To go to a specific one, open and search below.
  - Exercise 8: [Star Wars server searches.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-08-sw-server-searches)
  - Exercise 9: [Linter errors.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-09-linter-errors)
  - Exercise 10: [Give me kitty gifs.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-11-server-requests-2/module-2-lesson-11-ex-10-give-me-kitty-gifs)
+</details>
+
+#### LESSON 12 [Advanced DOM](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom)
+<details open>
+<summary></summary>
+ 
+ - Exercise 1: [1 2 3 Let's do it again.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom/module-02-lesson-12-ex-01-one-two-three-lets-do-it-again)
+ - Exercise 2: [On a trip.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom/module-02-lesson-12-ex-02-on-a-trip)
+ - Exercise 3: [Autocompleted.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom/module-02-lesson-12-ex-03-autocompleted)
+ - Exercise 4: [High up paragraphs.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom/module-02-lesson-12-ex-04-high-up-paragraphs)
+ - Exercise 5: [Real anchors.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom/module-02-lesson-12-ex-05-real-anchors)
+ - Exercise 6: [Detention.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom/module-02-lesson-12-ex-06-detention)
 </details>
 
 #### LESSON 
