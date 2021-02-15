@@ -389,9 +389,9 @@ To go to a specific one, open and search below.
 <details open>
 <summary></summary>
  
- - Exercise 1: [Mediacard.]()
- - Exercise 2: [JSX.]()
- - Exercise 3: [Sass withing React.]()
+ - Exercise 1: [Mediacard]()
+ - Exercise 2: [JSX]()
+ - Exercise 3: [Sass within React]()
 </details>
 
 #### LESSON 
