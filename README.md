@@ -176,7 +176,7 @@ To go to a specific one, open and search below.
 </details>
 
 ## Module 2 ---- JavaScript
-All the module 1 exercises are [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202)  
+All the module 2 exercises are [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202)  
 To go to a specific one, open and search below.
 <details>
 <summary></summary>
@@ -346,7 +346,24 @@ To go to a specific one, open and search below.
  - Exercise 6: [Detention.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom/module-02-lesson-12-ex-06-detention)
 </details>
 
-#### LESSON 
+
+#### LESSON 13 Functional Array Methods
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
+
+#### LESSON 14 Asynchronous JavaScript 
 <details>
 <summary></summary>
  
@@ -372,16 +389,9 @@ To go to a specific one, open and search below.
 <details open>
 <summary></summary>
  
- - Exercise 1: []()
- - Exercise 2: []()
- - Exercise 3: []()
- - Exercise 4: []()
- - Exercise 5: []()
- - Exercise 6: []()
- - Exercise 7: []()
- - Exercise 8: []()
- - Exercise 9: []()
- - Exercise 10: []()
+ - Exercise 1: [Mediacard.]()
+ - Exercise 2: [JSX.]()
+ - Exercise 3: [Sass withing React.]()
 </details>
 
 #### LESSON 
