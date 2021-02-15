@@ -11,7 +11,7 @@ Oh my Code! how I love doing things for the first time!
 
 Adding here all the exercises I do makes my life easier when it comes to reviewing the contents I'm learning.  
 
-## Module 1      HTML & CSS 
+## Module 1 .......... HTML & CSS 
 All the module 1 exercises are [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201)  
 To go to a specific one, open and search below.
 <details>
@@ -175,7 +175,7 @@ To go to a specific one, open and search below.
  
 </details>
 
-## Module 2      JavaScript
+## Module 2 .......... JavaScript
 All the module 2 exercises are [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202)  
 To go to a specific one, open and search below.
 <details>
@@ -381,7 +381,7 @@ To go to a specific one, open and search below.
 
 </details>
 
-## Module 3       React
+## Module 3.......... React
 <details open>
 <summary></summary>
    
