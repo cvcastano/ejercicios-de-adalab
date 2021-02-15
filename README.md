@@ -12,25 +12,22 @@ Oh my Code! how I love doing things for the first time!
 Adding here all the exercises I do makes my life easier when it comes to reviewing the contents I'm learning.  
 
 ## Module 1 ---- HTML & CSS 
-All the module 1 exercises are [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201)
-
+All the module 1 exercises are [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201)  
 To go to a specific one, open and search below.
-
 <details>
 <summary></summary>
- 
+   
 #### LESSON 1	[Introduction to the Web](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-01-introduction-to-the-web/module-1-lesson-01-exs-1-to-6)
 <details>
-<summary>
-</summary>
+<summary> </summary>
 
- - Exercises 1 to 6. Gazpacho recipe. [First steps in HTML and CSS.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-01-introduction-to-the-web/module-1-lesson-01-exs-1-to-6)
+- Exercises 1 to 6. Gazpacho recipe. [First steps in HTML and CSS.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-01-introduction-to-the-web/module-1-lesson-01-exs-1-to-6)
 </details>
 
 #### LESSON 2	[My first web page](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-02-my-first-web-page)  
 <details> 
 <summary> </summary>
-
+   
  - Exercise 1: Organizing a weekly menu. [Creating tables.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-02-my-first-web-page/module-1-lesson-02-ex-01-weekly-menu)
  - Exercise 2: A clasic page. [Creating a semantic page.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-02-my-first-web-page/module-1-lesson-02-ex-02-a-semantic-page)
  - Exercise 3: Colour me those links. Learning about inheritance in CSS.   
@@ -42,7 +39,7 @@ To go to a specific one, open and search below.
 #### LESSON 3	[Box model and DevTools](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools)
 <details>
 <summary></summary>
-
+   
  - Exercise 1: Marking. [Using the &lt;mark&gt; tag.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools/module-1-lesson-03-ex-01-marking) 
  - Exercise 2: Displays. [Changing displays.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools/module-1-lesson-03-ex-02-displays)
  - Exercise 3: Image in a paragraph. [Adding content.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%201/module-1-lesson-03-box-model-and-dev-tools/module-1-lesson-03-ex-03-image-in-a-paragraph)
@@ -179,7 +176,9 @@ To go to a specific one, open and search below.
 </details>
 
 ## Module 2 ---- JavaScript
-<details open>
+All the module 1 exercises are [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202)  
+To go to a specific one, open and search below.
+<details>
 <summary></summary>
  
 #### LESSON 1 [Intro to programming](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-01-intro-to-programming)
@@ -336,7 +335,7 @@ To go to a specific one, open and search below.
 </details>
 
 #### LESSON 12 [Advanced DOM](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom)
-<details open>
+<details>
 <summary></summary>
  
  - Exercise 1: [1 2 3 Let's do it again.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom/module-02-lesson-12-ex-01-one-two-three-lets-do-it-again)
@@ -345,6 +344,44 @@ To go to a specific one, open and search below.
  - Exercise 4: [High up paragraphs.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom/module-02-lesson-12-ex-04-high-up-paragraphs)
  - Exercise 5: [Real anchors.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom/module-02-lesson-12-ex-05-real-anchors)
  - Exercise 6: [Detention.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-12-advanced-dom/module-02-lesson-12-ex-06-detention)
+</details>
+
+#### LESSON 
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
+
+</details>
+
+## Module 3 ---- React
+<details open>
+<summary></summary>
+   
+   #### LESSON 1 Intro a React
+<details open>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
 </details>
 
 #### LESSON 
