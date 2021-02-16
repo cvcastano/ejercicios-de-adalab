@@ -385,14 +385,7 @@ To go to a specific one, open and search below.
 <details open>
 <summary></summary>
    
-   #### LESSON 1 Intro to React
-<details open>
-<summary></summary>
- 
- - Exercise 1: [Mediacard]()
- - Exercise 2: [JSX]()
- - Exercise 3: [Sass within React]()
-</details>
+   #### LESSON 1 [Intro to React](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-03-lesson-01-intro-to-react)
 
 #### LESSON 
 <details>
