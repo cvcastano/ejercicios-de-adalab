@@ -385,7 +385,7 @@ To go to a specific one, open and search below.
 <details open>
 <summary></summary>
    
-   #### LESSON 1 Intro a React
+   #### LESSON 1 Intro to React
 <details open>
 <summary></summary>
  
