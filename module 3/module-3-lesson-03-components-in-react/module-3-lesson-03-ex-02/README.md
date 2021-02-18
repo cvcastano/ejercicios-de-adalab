@@ -1,3 +1,5 @@
+![Exercise 2](https://books.adalab.es/materiales-front-end-j/modulo-3/3_4_componentes_react#ejercicio-2)
+
 # Exercise 2.1
 
 ![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-02/src/ex2-1.png)
@@ -87,7 +89,7 @@ class HalfPage extends React.Component {
 export default HalfPage;
 ```
 # Exercise 2.3
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-02/src/ex2-3.png)
 
 App.js
 ```javaScript
