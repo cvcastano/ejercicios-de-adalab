@@ -17,18 +17,19 @@ const students = [
     age: 22
   }
 ];
+const promoAstudents = students.filter(student => student.promo === 'A');
 
 class App extends React.Component {
   render() {
    
     return (
       <div className="page">
-        <h1>Mapping lists with React:</h1>
-        {students.map((student, index) => {
+        <h1>Filtering lists with React:</h1>
+        {promoAstudents.map((promoAstudent, index) => {
           return (
             <li className="list" key={index}>
-              <h2>Name: {student.name}</h2>
-              <p>Age: {student.age}</p>
+              <h2>Name: {promoAstudent.name}</h2>
+              <p>Age: {promoAstudent.age}</p>
             </li>
           );
         })}
