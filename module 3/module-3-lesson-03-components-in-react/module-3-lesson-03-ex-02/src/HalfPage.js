@@ -5,7 +5,7 @@ class HalfPage extends React.Component {
 
         return (
             <div className="half-page">
-                <h2>{this.props.title}</h2>
+                <h1>{this.props.title}</h1>
                 <div>
                     {this.props.children}
                 </div>

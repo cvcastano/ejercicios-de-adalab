@@ -7,9 +7,8 @@ class App extends React.Component {
 
     return (
       <div>
-        <HalfPage title="I am developing a component.">
-          <p>Such component must measure half the viewport width.</p>
-          <p>This component must receive JSX code from its parent component.</p>
+        <HalfPage title="I am a title">
+          <p>I am on the left</p>
         </HalfPage>
       </div>
     );
