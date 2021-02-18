@@ -1,5 +1,6 @@
 # Exercise 1
-
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-01/src/list.png)
+App.js
 ```javaScript
 import React from 'react';
 
@@ -41,4 +42,19 @@ class App extends React.Component {
 }
 
 export default App;
+```
+
+index.js
+```javaScript
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
+
+ReactDOM.render(
+  <React.StrictMode>
+    <App/>
+  </React.StrictMode>,
+  document.getElementById('root')
+);
 ```
