@@ -1,6 +1,6 @@
 # Exercise 1.1
 
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-02/src/ex2-1.png)
 
 App.js
 ```javaScript
