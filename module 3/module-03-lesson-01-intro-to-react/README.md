@@ -3,7 +3,7 @@
 ![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-03-lesson-01-intro-to-react/src/render.jpg)
 
 # App.js 
-```
+```javascript
 import React, { Component } from "react";
 import logo from './logo.svg';
 import './App.scss';
@@ -40,7 +40,7 @@ class App extends Component {
 export default App;
 ```
 # index.js
-```
+```javaScript
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.scss';
@@ -57,7 +57,7 @@ ReactDOM.render(
 reportWebVitals();
 ```
 # App.scss
-```
+```javaScript
 * {
   box-sizing: border-box;
   margin: 0;
