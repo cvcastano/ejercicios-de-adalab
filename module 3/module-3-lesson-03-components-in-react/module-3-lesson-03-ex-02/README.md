@@ -1,4 +1,4 @@
-![Exercise 2](https://books.adalab.es/materiales-front-end-j/modulo-3/3_4_componentes_react#ejercicio-2)
+[Exercise 2](https://books.adalab.es/materiales-front-end-j/modulo-3/3_4_componentes_react#ejercicio-2)
 
 # Exercise 2.1
 
