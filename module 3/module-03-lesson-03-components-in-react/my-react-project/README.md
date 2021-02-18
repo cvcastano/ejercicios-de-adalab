@@ -1,5 +1,5 @@
 # Exercise 1
-```
+```javaScript
 import React from 'react';
 
 class App extends React.Component {
