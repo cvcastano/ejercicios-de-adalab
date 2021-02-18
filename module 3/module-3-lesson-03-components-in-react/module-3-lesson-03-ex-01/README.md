@@ -45,7 +45,7 @@ export default App;
 ```
 
 # Exercise 1.2
-![]
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-01/src/image%20(2).png)
 
 App.js
 ```javaScript
