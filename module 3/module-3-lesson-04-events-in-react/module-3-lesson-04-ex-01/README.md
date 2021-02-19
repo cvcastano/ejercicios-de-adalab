@@ -2,7 +2,7 @@
 
 # Exercise 1
 
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-01/src/ex%2001.png)
 
 App.js
 ```javaScript
