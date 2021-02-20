@@ -387,6 +387,55 @@ To go to a specific one, open and search below.
    
    #### LESSON 1 [Intro to React](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-03-lesson-01-intro-to-react)
 
+#### LESSON 2 [Intro to React II](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-02-intro-to-react-2/randomCat) 
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
+
+
+#### LESSON 3 [Components in React](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-03-components-in-react)
+<details>
+<summary></summary>
+ 
+ - Exercise 1: [Mapping lists](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-01)
+ - Exercise 2: [Half page](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-02)
+ - Exercise 3: [](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-03)
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
+
+#### LESSON 4 [Events in React](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react)
+<details>
+<summary></summary>
+ 
+ - Exercise 1: [I hate onions](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-01)
+ - Exercise 2: [My destination](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-02)
+ - Exercise 3: [My hatred in red](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-03-my-hatred-in-red)
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
+
 #### LESSON 
 <details>
 <summary></summary>
