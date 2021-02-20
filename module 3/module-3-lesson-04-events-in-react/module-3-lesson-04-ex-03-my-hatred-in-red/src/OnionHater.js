@@ -1,8 +1,6 @@
 import React from 'react';
 
 
-const page = document.querySelector('.page');
-
 class OnionHater extends React.Component {
 
   constructor(props) {
@@ -13,6 +11,8 @@ class OnionHater extends React.Component {
 
   handleInput(ev){
     const value = ev.target.value.toLowerCase();
+
+    const page = document.querySelector('.page');
     
     // console.log(value);
 
