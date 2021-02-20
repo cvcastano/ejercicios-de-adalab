@@ -385,7 +385,7 @@ To go to a specific one, open and search below.
 <details open>
 <summary></summary>
    
-#### LESSON 1 [Intro to React](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-03-lesson-01-intro-to-react)
+#### LESSON 1 [Intro to React](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-01-intro-to-react)
 <details>
 <summary></summary>
  
@@ -399,7 +399,7 @@ To go to a specific one, open and search below.
 <summary></summary>
  
  - Exercise 1: [MediaCard as component](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-02-intro-to-react-2/module-3-lesson-02-ex-01-mediacard-as-component)
- - Exercise 2: MediaCard using props[](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-02-intro-to-react-2/module-3-lesson-02-ex-02-mediacard-using-props)
+ - Exercise 2: [MediaCard using props](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-02-intro-to-react-2/module-3-lesson-02-ex-02-mediacard-using-props)
  - Exercise 3: []()
  - Exercise 4: []()
  - Exercise 5: []()
