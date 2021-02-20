@@ -57,7 +57,7 @@ ReactDOM.render(
 reportWebVitals();
 ```
 # App.scss
-```javaScript
+```scss
 * {
   box-sizing: border-box;
   margin: 0;
