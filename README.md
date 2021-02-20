@@ -385,7 +385,14 @@ To go to a specific one, open and search below.
 <details open>
 <summary></summary>
    
-   #### LESSON 1 [Intro to React](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-03-lesson-01-intro-to-react)
+#### LESSON 1 [Intro to React](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-03-lesson-01-intro-to-react)
+<details>
+<summary></summary>
+ 
+ - Exercises 1 to 3: [MediaCard](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-01-intro-to-react)
+
+</details>
+
 
 #### LESSON 2 [Intro to React II](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-02-intro-to-react-2/randomCat) 
 <details>
