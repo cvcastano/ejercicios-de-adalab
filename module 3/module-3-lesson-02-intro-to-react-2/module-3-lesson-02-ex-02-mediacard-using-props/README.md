@@ -1,60 +1,65 @@
-[Exercise 1](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_2_intro_react_2#ejercicio-1)
+[Exercise 2](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_2_intro_react_2#ejercicio-2)
 
-![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-02-intro-to-react-2/module-3-lesson-02-ex-01-mediacard-as-component/src/render.jpg)
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-02-intro-to-react-2/module-3-lesson-02-ex-02-mediacard-using-props/src/render.jpg)
 
 # MediaCard.js
 ```javaScript
-import React, {Component} from 'react';
-import logo from './logo.svg';
-import './App.scss';
+import React from 'react';
 
-class MediaCard extends Component {
-    render() {
-      const header = <header className="header">
-        <img src={logo} className="logo" alt="logo" />
-        <div className="header-text">
-          <h4 className="name">Carolina Castaño</h4>
-          <h5 className="date">Tuesday, February 16th 2021</h5>
-        </div>
-      </header>;
-      const main = <main className="main">
-        <p className="main-text">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum
-          repellendus sapiente sint ut officia molestiae incidunt facere
-          magnam minus, aliquid eos animi, soluta sequi harum? Odio non in
-          ducimus aspernatur. Rerum repellendus sapiente sint ut officia molestiae incidunt facere magnam minus, aliquid eos animi, soluta sequi harum? Odio non in ducimus aspernatur...
-    </p>
-      </main>;
-      const footer = (<footer className="footer">
-        <a className="read-more">Read-more...</a>
-        <span className="likes">37 <i className="fas fa-heart"></i></span>
-      </footer>);
-      const card = (<div className="card">
-        {header} {main} {footer}
-      </div>);
-      const appRoot = (<div className="App">{card}</div>);
-      return appRoot;
-    }
+class MediaCard extends React.Component {
+  constructor(props) {
+    super(props);
   }
-  
-  export default MediaCard;
-  ```
 
-# App.js 
-```javascript
-import React, { Component } from "react";
-import MediaCard from './MediaCard';
-
-
-class App extends Component {
   render() {
     return (
-      <MediaCard />
+    <div className="card">
+      <header className="header">
+        <img src={this.props.img} className="img" alt="profile-image" />
+        <div className="header-text">
+          <h4 className="name">{this.props.name}</h4>
+          <h5 className="date">{this.props.date}</h5>
+        </div>
+      </header>
+      <main className="main">
+        <p className="main-text">
+          {this.props.text}
+        </p>
+      </main>
+      <footer className="footer">
+        <a className="read-more">Read-more...</a>
+        <span className="likes">{this.props.likes} <i className="far fa-heart"></i></span>
+      </footer>
+    </div>
     );
   }
 }
+export default MediaCard;
+```
 
+# App.js 
+```javascript
+import React from "react";
+import MediaCard from './MediaCard';
+import './App.scss';
+
+const imgURL= 'https://avatars.githubusercontent.com/u/73801003?s=460&u=1e221d0595b5b6de862687a1fcfdf3e2a8c814ba&v=4';
+
+const App = () => {
+    return (
+      <div className="App">
+      <MediaCard 
+      name='Perica de los Palotes' 
+      date='21th of February, 2021'
+      img= {imgURL}
+      text='La tonta con su tambor y a veces con el cornetín imitaba al pregonero que trataría de desembarazarse de ella ante la risa y el regocijo de todos.'
+      likes='1234'
+      />
+      </div>
+    );
+}
 export default App;
+
 ```
 # index.js
 ```javaScript
@@ -89,22 +94,9 @@ ReactDOM.render(
 .header {
   display: flex;
 }
-.logo {
-  height: 40px;
-  pointer-events: none;
-}
-@media (prefers-reduced-motion: no-preference) {
-  .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.img {
+  width: 40px;
+  border-radius: 20px;
 }
 .header-text {
   height: 40px;
