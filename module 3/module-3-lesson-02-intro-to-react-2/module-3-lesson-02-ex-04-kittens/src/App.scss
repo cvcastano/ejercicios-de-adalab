@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+.App {
+  background-color: #e4e4e4;
+  padding: 20px;
+}
+.section-cats_list {
+list-style: none;
+}
+
+li {
+  background-color: white;
+  box-shadow: 1px 1px 10px rgb(119, 113, 113);
+  padding: 2px;
+  width: fit-content;
+  height: fit-content;
+  margin: 10px;
+}
+
+
+
