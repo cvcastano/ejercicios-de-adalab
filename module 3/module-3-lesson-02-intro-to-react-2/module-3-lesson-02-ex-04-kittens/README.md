@@ -1,6 +1,6 @@
 [Exercise 4](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_2_intro_react_2#ejercicio-4)
 
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-02-intro-to-react-2/module-3-lesson-02-ex-04-kittens/src/render.png)
 
 # RandomCat.js
 ```javaScript
