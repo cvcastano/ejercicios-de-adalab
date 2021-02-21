@@ -1,8 +1,6 @@
 [Exercise 4](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_3_componentes_react#ejercicio-4)
 
-# Exercise 4
-
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-04/src/render.png)
 
 # Item.js
 ```javaScript
@@ -89,7 +87,7 @@ class ItemsList extends React.Component {
 export default ItemsList;
 ```
 
-App.js
+# App.js
 ```javaScript
 import React from 'react';
 import ItemsList from './ItemsList';
