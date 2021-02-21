@@ -411,8 +411,8 @@ To go to a specific one, open and search below.
  
  - Exercise 1: [Mapping lists](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-01)
  - Exercise 2: [Half page](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-02)
- - Exercise 3: [](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-03)
- - Exercise 4: []()
+ - Exercise 3: [DefaultProps](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-03)
+ - Exercise 4: [PropTypes](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-04)
 
 </details>
 
