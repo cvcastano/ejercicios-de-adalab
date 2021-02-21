@@ -401,7 +401,7 @@ To go to a specific one, open and search below.
  - Exercise 2: [MediaCard using props](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-02-intro-to-react-2/module-3-lesson-02-ex-02-mediacard-using-props)
  - Exercise 3: [From class to functional component](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-02-intro-to-react-2/module-3-lesson-02-ex-03-class-to-functional)
  - Exercise 4: [Kittens](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-02-intro-to-react-2/module-3-lesson-02-ex-04-kittens)
- - Exercise 5: []()
+ - Exercise 5: [MediaList](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-02-intro-to-react-2/module-3-lesson-02-ex-05-medialist)
  - Exercise 6: []()
 </details>
 
