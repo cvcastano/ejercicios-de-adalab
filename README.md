@@ -393,7 +393,6 @@ To go to a specific one, open and search below.
 
 </details>
 
-
 #### LESSON 2 [Intro to React II](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-02-intro-to-react-2) 
 <details>
 <summary></summary>
@@ -404,10 +403,6 @@ To go to a specific one, open and search below.
  - Exercise 4: []()
  - Exercise 5: []()
  - Exercise 6: []()
- - Exercise 7: []()
- - Exercise 8: []()
- - Exercise 9: []()
- - Exercise 10: []()
 </details>
 
 
@@ -419,12 +414,7 @@ To go to a specific one, open and search below.
  - Exercise 2: [Half page](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-02)
  - Exercise 3: [](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-03-components-in-react/module-3-lesson-03-ex-03)
  - Exercise 4: []()
- - Exercise 5: []()
- - Exercise 6: []()
- - Exercise 7: []()
- - Exercise 8: []()
- - Exercise 9: []()
- - Exercise 10: []()
+
 </details>
 
 #### LESSON 4 [Events in React](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react)
@@ -440,8 +430,31 @@ To go to a specific one, open and search below.
  - Exercise 7: []()
  - Exercise 8: []()
  - Exercise 9: []()
- - Exercise 10: []()
 </details>
+
+#### LESSON 5 [React State]()
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+</details>
+
+#### LESSON 6 [React Hooks]()
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+</details>
+
+</details>
+
 
 #### LESSON 
 <details>
@@ -457,6 +470,4 @@ To go to a specific one, open and search below.
  - Exercise 8: []()
  - Exercise 9: []()
  - Exercise 10: []()
-</details>
-
 </details>
