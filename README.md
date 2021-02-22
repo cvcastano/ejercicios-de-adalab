@@ -435,13 +435,14 @@ To go to a specific one, open and search below.
 <details>
 <summary></summary>
  
- - Exercise 1: []()
- - Exercise 2: []()
- - Exercise 3: []()
- - Exercise 4: []()
- - Exercise 5: []()
- - Exercise 6: []()
- - Exercise 7: []()
+ - Exercise 1: [Showing related info]()
+ - Exercise 2: [Blinking square]()
+ - Exercise 3: [Time to sleep]()
+ - Exercise 4: [Sheep counter]()
+ - Exercise 5: [Advanced sheep counter]()
+ - Exercise 6: [User info]()
+ - Exercise 7: [Fresh fruits]()
+ 
 </details>
 
 #### LESSON 6 [React Hooks]()
