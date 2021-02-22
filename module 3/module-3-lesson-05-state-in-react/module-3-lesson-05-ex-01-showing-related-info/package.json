@@ -1,5 +1,5 @@
 {
-  "name": "module-03-lesson-01-intro-to-react",
+  "name": "module-3-lesson-05-ex-01-showing-related-info",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +7,7 @@
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.1",
     "node-sass": "^5.0.0",
+    "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",

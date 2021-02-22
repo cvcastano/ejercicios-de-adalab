@@ -1,7 +1,6 @@
 import React from 'react';
 
 
-
 class CityImage extends React.Component {
 
     constructor(props) {
