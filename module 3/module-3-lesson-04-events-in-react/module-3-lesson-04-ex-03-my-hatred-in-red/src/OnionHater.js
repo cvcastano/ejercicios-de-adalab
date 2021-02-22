@@ -1,37 +1,36 @@
 import React from 'react';
 
+const page = document.querySelector('.page');
 
 class OnionHater extends React.Component {
-
   constructor(props) {
     super(props);
-    this.handleInput = this.handleInput.bind(this);
-    this.isHating = false
+     this.isHating = false
+     this.handleInput = this.handleInput.bind(this);
+   
   }
-
+  
   handleInput(ev){
+    this.forceUpdate()
     const value = ev.target.value.toLowerCase();
-
-    const page = document.querySelector('.page');
-    
-    // console.log(value);
-
-    if (value.includes('onion')) {
+    if (value.includes ('onion')) {
       this.isHating = true;
       page.classList.add('hatred');
-    }
+    } 
     else {
       this.isHating = false;
       page.classList.remove('hatred');
     }
-
   }
-  render() {
 
-    return (
-      <textarea cols="30" rows="10" className="textarea" onKeyUp={this.handleInput}></textarea>
-    );
-  }
+ 
+render() {
+
+  return (
+      <textarea name="" id="" cols="30" rows="10" onChange={this.handleInput}></textarea>
+  );
 }
+}
+
 
 export default OnionHater;
