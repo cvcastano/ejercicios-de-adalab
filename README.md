@@ -420,12 +420,12 @@ To go to a specific one, open and search below.
 <details>
 <summary></summary>
  
- - Exercise 1: [I hate onions](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-01)
- - Exercise 2: [My destination](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-02)
+ - Exercise 1: [I hate onions](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-01-onion-hater)
+ - Exercise 2: [My destination](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-02-choose-your-destination)
  - Exercise 3: [My hatred in red](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-03-my-hatred-in-red)
- - Exercise 4: []()
+ - Exercise 4: [See your destination](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-04-see-your-destination)
  - Exercise 5: []()
- - Exercise 6: []()
+ - Exercise 6: [Mimimimi](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-06-mimimi)
  - Exercise 7: []()
  - Exercise 8: []()
  - Exercise 9: []()
