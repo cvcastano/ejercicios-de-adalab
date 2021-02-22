@@ -435,7 +435,7 @@ To go to a specific one, open and search below.
 <details>
 <summary></summary>
  
- - Exercise 1: [Showing related info]()
+ - Exercise 1: [Showing related info](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-01-showing-related-info)
  - Exercise 2: [Blinking square]()
  - Exercise 3: [Time to sleep]()
  - Exercise 4: [Sheep counter]()
