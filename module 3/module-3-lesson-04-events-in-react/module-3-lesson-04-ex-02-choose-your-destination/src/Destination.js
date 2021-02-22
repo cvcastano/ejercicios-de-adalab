@@ -1,22 +1,25 @@
 import React from 'react';
 
-const selectHandler = ev => {
-        alert (`Your destination is${ev.target.value}`);
-    }
 
+function selectHandler (ev) {
+  alert(`Your destination is ${ev.target.value}`);
+} 
 
 class Destination extends React.Component {
-  render() {
+  constructor(props) {
+    super(props);
+  }
 
+  render() {
     return (
-        <select name="destination" id="destination" onChange={selectHandler}>
-          <option value="Buenos Aires">Buenos Aires</option>
-          <option value="Sydney">Sydney</option>
-          <option value="Praga">Praga</option>
-          <option value="Boston">Boston</option>
-          <option value="Tokyo">Tokyo</option>
-        </select>
-    );
+      <select name="select" onChange={selectHandler}>
+        <option value="Buenos Aires">Buenos Aires</option>
+        <option value="Sydney" selected>Sydney</option>
+        <option value="Prague">Prague</option>
+        <option value="Boston">Boston</option>
+        <option value="Tokio">Tokio</option>
+      </select>
+    )
   }
 }
 
