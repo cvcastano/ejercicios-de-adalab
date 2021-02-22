@@ -20,7 +20,7 @@ class Destination extends React.Component {
         <select name="destination" id="destination" onChange={selectHandler}>
           <option value="Buenos Aires">Buenos Aires</option>
           <option value="Sydney">Sydney</option>
-          <option value="Praga">Praga</option>
+          <option value="Prague">Prague</option>
           <option value="Boston">Boston</option>
           <option value="Tokyo">Tokyo</option>
         </select>
