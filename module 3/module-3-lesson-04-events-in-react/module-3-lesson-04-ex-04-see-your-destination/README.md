@@ -3,7 +3,7 @@
 
 ![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-04-see-your-destination/src/mydestination.gif)
 
-Destination.js
+# Destination.js
 ```javaScript
 import React from 'react';
 import CityImage from "./CityImage";
