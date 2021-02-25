@@ -1,6 +1,6 @@
 [Exercise 01](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_7_formularios_en_react#ejercicio-1)
 
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-07-react-forms/src/capture%20(2).gif)
 
 # App.js 
 ```javascript
