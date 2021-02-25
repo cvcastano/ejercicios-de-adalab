@@ -455,6 +455,15 @@ To go to a specific one, open and search below.
 
 </details>
 
+#### LESSON 7 [React Forms](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-07-react-forms)
+<details>
+<summary></summary>
+ 
+ - Exercise 1 to 3: [Movie Form](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-07-react-forms
+)
+
+</details>
+
 
 #### LESSON 
 <details>
