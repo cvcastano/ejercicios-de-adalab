@@ -464,6 +464,21 @@ To go to a specific one, open and search below.
 
 </details>
 
+#### LESSON 8 [Best Practices](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-08-best-practices)
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: [Little Numbers](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-08-best-practices/module-3-lesson-08-ex-02-little-numbers)
+ - Exercise 3: [Collapsibles](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-08-best-practices/module-3-lesson-08-ex-03-collapsibles)
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+ - Exercise 7: []()
+ - Exercise 8: []()
+ - Exercise 9: []()
+ - Exercise 10: []()
+</details>
 
 #### LESSON 
 <details>
