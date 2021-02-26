@@ -1,6 +1,6 @@
 [Exercise 03](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_8_buenas_practicas#ejercicio-3)
 
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-08-best-practices/module-3-lesson-08-ex-03-collapsibles/src/colapCapture.gif)
 
 # Collapsibles.js 
 ```javascript
