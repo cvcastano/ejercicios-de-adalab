@@ -1,4 +1,4 @@
-[Exercise 01](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_7_formularios_en_react#ejercicio-1)
+[Exercise 02](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_8_buenas_practicas#ejercicio-2)
 
 ![]()
 
@@ -7,71 +7,42 @@
 import React from 'react';
 import './App.css';
 
+const numbers = [1, 4, 6, 8, 45, 89];
+
 class App extends React.Component {
   constructor(props) {
     super(props);
+
     this.state = {
-      title: '',
-      description: '',
-      language: ''
-    };
-    this.handleTitle = this.handleTitle.bind(this);
-    this.handleLanguage = this.handleLanguage.bind(this);
-    this.handleDescription = this.handleDescription.bind(this);
-  }
-  handleTitle(ev) {
-    this.setState({
-      title: ev.target.value
-    })
-  }
-  handleLanguage(ev) {
-    this.setState({
-      language: ev.target.value
-    })
-  }
-  handleDescription(ev) {
-    this.setState({
-      description: ev.target.value
-    })
+      numbersList: numbers.map(n => <li key={n}>{n}</li>)
+    }
+    this.filterNumberList = this.filterNumberList.bind(this);
   }
 
-  renderLanguage () {
-    if (this.state.language === 'Spanish') {
-      return 'Spanish';
-    } else if (this.state.language === 'English') {
-        return 'English';
-    }  else if (this.state.language === 'Portuguese') {
-      return 'Portuguese';
-    }
+  filterNumberList = (ev) => {
+    const target = ev.target;
+
+    const number = parseInt(target.value);
+
+    const filterNumbers = numbers.filter(n => n > number).map(n => {
+      return <li key={n}>{n}</li>
+    });
+
+    this.setState({ numbersList: filterNumbers })
   }
 
   render() {
-    console.log(this.state)
     return (
-      <div >
-        <form className="App">
+      <div>
+        <form>
           <label>
-            Title:
-          <input type="text" id="title" onChange={this.handleTitle} />
-          </label>
-          <label>
-            Description:
-          <textarea id="description" onChange= {this.handleDescription} />
-          </label>
-          <label>
-            Language:
-          <select id="language" onChange={this.handleLanguage}>
-              <option value="Spanish">Spanish</option>
-              <option value="English">English</option>
-              <option value="Portuguese">Portuguese</option>
-            </select>
+            Enter a number:
+    		    <input type="text" onChange={this.filterNumberList} />
           </label>
         </form>
-        <div className="card">
-          <p>Title: {this.state.title} </p>
-          <p>Description: {this.state.description}</p>
-          <p>Language: {this.renderLanguage()} </p>
-        </div>
+        <ul>
+          {this.state.numbersList}
+        </ul>
       </div>
     );
   }
