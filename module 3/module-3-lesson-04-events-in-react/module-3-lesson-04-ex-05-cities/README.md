@@ -1,7 +1,7 @@
 [Exercise 5](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_4_eventos_react#ejercicio-5)
 
 
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-05-cities/src/citiesCapture.gif)
 
 
 # CitySelector.js
