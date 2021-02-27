@@ -7,15 +7,15 @@ constructor(props) {
     super(props);
     this.handleText = this.handleText.bind(this);
 }
-    handleText(event) {
-        const inputValue = event.target.value;
+    handleText(ev) {
+        const inputValue = ev.target.value;
         this.props.getInfo(inputValue);
     }
 
     render() {
         return(
             <form>
-                <textarea onChange={this.handleText}></textarea>
+                <textarea cols="30" rows="10" onChange={this.handleText}></textarea>
             </form>
         )
     }

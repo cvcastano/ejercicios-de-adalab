@@ -11,7 +11,7 @@ constructor(props) {
 }
 
 translation(writtenText) {
-  this.text = writtenText.replace(/[aeou]/gi, 'i').replace(/[qwrtypsdfghjklñzxcvbnm]/gi, 'm');
+  this.text = writtenText.replace(/[aeou]/g, 'i').replace(/[áéóú]/g, 'í').replace(/[AEOU]/g, 'I').replace(/[ÁÉÚÓ]/g, 'Í');
   this.forceUpdate();
 }
 
@@ -19,8 +19,12 @@ translation(writtenText) {
 
     return (
       <div className="page">
+         <p className="texto">Hello</p>
+      <p className="texto">Write anything here:</p>
         <TextInput getInfo={this.translation}/>
-        <MIMIMITranslator displayText={this.text}/>
+        <div className="display">
+          <MIMIMITranslator displayText={this.text} />
+        </div>
       </div>
     );
   }
