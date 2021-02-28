@@ -24,6 +24,6 @@ class App extends React.Component {
       </div>
     );
   }
-}
+}z
 
 export default App;
