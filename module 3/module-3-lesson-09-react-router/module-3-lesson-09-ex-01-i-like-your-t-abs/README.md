@@ -1,6 +1,6 @@
 [Exercise 01](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_9_react_router#ejercicio-1)
 
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-09-react-router/module-3-lesson-09-ex-01-i-like-your-t-abs/src/images/capture.gif)
 
 # index.js
 ```javascript
