@@ -453,8 +453,6 @@ To go to a specific one, open and search below.
  - Exercise 2: []()
 </details>
 
-</details>
-
 #### LESSON 7 [React Forms](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-07-react-forms)
 <details>
 <summary></summary>
@@ -489,7 +487,31 @@ To go to a specific one, open and search below.
 
 </details>
 
+#### LESSON 10 [Components lifecycle](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-10-components-lifecycle)
+<details>
+<summary></summary>
+ 
+ - Exercise 1: [Lifecycle counter](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-10-components-lifecycle/module-3-lesson-10-ex-01-lifecycle-counter)
+ - Exercise 2: [Commented counter](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-10-components-lifecycle/module-3-lesson-10-ex-02-commented-counter)
+ - Exercise 3: [Functional counter](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-10-components-lifecycle/module-3-lesson-10-ex-03-functional-counter)
+ - Exercise 4: [Commented functional counter](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-10-components-lifecycle/module-3-lesson-10-ex-04-commented-functional-counter)
+ - Exercise 5: []()
+ - Exercise 6: []()
+</details>
 
+#### LESSON 11 [JavaScript Testing]()
+<details>
+<summary></summary>
+ 
+ - Exercise 1: []()
+ - Exercise 2: []()
+ - Exercise 3: []()
+ - Exercise 4: []()
+ - Exercise 5: []()
+ - Exercise 6: []()
+</details>
+
+</details>
 
 #### LESSON 
 <details>
