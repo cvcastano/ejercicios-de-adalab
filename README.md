@@ -382,6 +382,8 @@ To go to a specific one, open and search below.
 </details>
 
 ## Module 3.......... React
+All the module 3 exercises are [here.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203)  
+To go to a specific one, open and search below.
 <details>
 <summary></summary>
    
