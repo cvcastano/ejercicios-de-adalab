@@ -382,7 +382,7 @@ To go to a specific one, open and search below.
 </details>
 
 ## Module 3.......... React
-<details open>
+<details>
 <summary></summary>
    
 #### LESSON 1 [Intro to React](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-01-intro-to-react)
@@ -513,10 +513,10 @@ To go to a specific one, open and search below.
 
 </details>
 
+<!--
 #### LESSON 
 <details>
 <summary></summary>
- 
  - Exercise 1: []()
  - Exercise 2: []()
  - Exercise 3: []()
@@ -528,3 +528,4 @@ To go to a specific one, open and search below.
  - Exercise 9: []()
  - Exercise 10: []()
 </details>
+ -->
