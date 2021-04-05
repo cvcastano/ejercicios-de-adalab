@@ -1,5 +1,5 @@
 'use strict';
 
-
-const address = 'Calle Corrales, 19';
-// let address = 'Calle Cardenal Cisneros, 16';
+let address
+address = 'Calle Corrales, 19';
+address = 'Calle Cardenal Cisneros, 16';
