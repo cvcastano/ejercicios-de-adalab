@@ -1,5 +1,6 @@
 'use strict';
 
-const name= 'Lola';
+const title = document.querySelector('h1')
+const name = 'Valle';
 
-alert ('Hola ' + `${name}`+ ', encantada de conocerte')
+title.innerHTML = 'Hola ' + `${name}`+ ', encantada de conocerte';
