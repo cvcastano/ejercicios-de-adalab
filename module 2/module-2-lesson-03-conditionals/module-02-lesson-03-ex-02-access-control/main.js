@@ -1,15 +1,13 @@
 'use strict';
 //asignar nombre a variable:
-const name = 'Valle';
-const welcomeMessage = `Hi, ${name}`;
-const alertMessage = `Sorry, ${name}, but the name you entered is not registered`;
+let name = 'Pepita';
 
-//si el nombre es Caro, saldrá un mensaje de bienvenida (Hi, Caro!)
-// Si el nombre es diferente, saldrá (Sorry, but the name you entered is not registered)
+//si el nombre es el tuyo o el de tu compañera mostraremos el mensaje "Bienvenida, (tu nombre aquí)". 
 
-if (name === 'Caro') {
-    alert (welcomeMessage);
-}
-else {
-    alert (alertMessage);
+if (name === 'Valle' || name === 'Caro') {
+    console.log('Bienvenida, ' + name)
+
+//Si el nombre es diferente al tuyo deberá mostrar "Lo siento pero el usuario que has introducido no está registrado".
+} else {
+    console.log('Lo siento pero el nombre introducido no es correcto');
 }
