@@ -220,11 +220,9 @@ To go to a specific one, open and search below.
  - Exercise 3: [Complete the conditions.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-03-complete-the-conditions)
  - Exercise 4: [Dog age to human age.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-04-dog-age-to-human-age)
  - Exercise 5: [Rainbow notifications.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-05-rainbow-notifications)
- - Exercise 6: []()
- - Exercise 7: []()
- - Exercise 8: []()
- - Exercise 9: []()
- - Exercise 10: []()
+ - Exercise 6: [Ternary operator](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-06-ternary-operatorv)
+ - Exercise 7: [Switch](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-07-switch)
+ - Exercise 8: [Leap year](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-03-conditionals/module-02-lesson-03-ex-08-leap-year)
 </details>
 
 #### LESSON 4 [Functions](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions)
