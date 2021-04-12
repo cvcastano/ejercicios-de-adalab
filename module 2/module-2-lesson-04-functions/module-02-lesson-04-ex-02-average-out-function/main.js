@@ -1,4 +1,7 @@
 'use strict';
+// Crea una función con 4 parámetros numéricos que devuelva como valor la media de todos ellos. Haz tres pruebas con distintos números para comprobar que funciona correctamente y muestra el resultado en la consola.
+
+
 function averageOut (a,b,c,d) {
     console.log ((a + b + c + d) /4 );
 }
