@@ -229,17 +229,16 @@ To go to a specific one, open and search below.
 <details>
 <summary></summary>
  
- - Exercise 1: [Times for function.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-01-times-for-function)
- - Exercise 2: [Average out function.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-02-average-out-function)
- - Exercise 3: [Ticket with VAT.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-03-ticket-with-vat)
- - Exercise 4: [Odds or evens.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-04-odd-even)
- - Exercise 5: []()
- - Exercise 6: []()
- - Exercise 7: []()
- - Exercise 8: []()
- - Exercise 9: []()
- - Exercise 10: []()
- - [T-shirt e-shop practice exercise.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-t-shirt-e-shop-practice-exercise)
+ - Exercise 1: [Times for function](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-01-times-for-function)
+ - Exercise 2: [Average out function](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-02-average-out-function)
+ - Exercise 3: [Ticket with VAT](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-03-ticket-with-vat)
+ - Exercise 4: [Odds or evens](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-04-odd-even)
+ - Exercise 5: [querySelector for all](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-05-queryselector-for-all)
+ - Exercise 6: [Errors log](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-06-errors-log)
+ - Exercise 7: [Join functions](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-07-join-functions)
+ - Exercise 9: [Arrow functions](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-09-arrow-functions-everywhere)
+ - Exercise 10: [Box model calculator](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-04-functions/module-02-lesson-04-ex-10-box-model-calculator)
+ - [T-shirt e-shop practice exercise](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-t-shirt-e-shop-practice-exercise)
 </details>
 
 #### LESSON 5 [Events](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-05-events)
