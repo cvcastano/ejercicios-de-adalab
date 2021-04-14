@@ -2,7 +2,7 @@
 'use strict';
 const button1 = document.querySelector('.button1');
 const button2 = document.querySelector('.button2');
-function addClass () {
+function addClass (event) {
 const clickedButton = event.currentTarget;
 clickedButton.classList.toggle('custom');
 }
