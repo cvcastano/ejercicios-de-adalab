@@ -1,15 +1,14 @@
 'use strict';
-// elemento de HTML
+// elementos de HTML
 const paragraph = document.querySelector('p');
-
+const page = document.querySelector('body');
 // handler
 function addLorem() {
- paragraph.innerHTML = paragraph.innerHTML + paragraph.innerHTML ;
+    page.innerHTML = page.innerHTML + `<p>${paragraph.innerHTML}</p>`;
 }
 
 // listener sobre el elemento, con tipo de evento y handler
 paragraph.addEventListener('mouseenter', addLorem);
-
 
 
 
