@@ -1,16 +1,16 @@
 'use strict';
-const body  = document.querySelector('body');
+const body = document.querySelector('body');
 
-function changeColor () {
-    if (event.keyCode === 82){
-body.classList.add ('red');
-body.classList.remove ('purple');
+function changeColor(event) {
+    if (event.keyCode === 82) {
+        body.classList.add('red');
+        body.classList.remove('purple');
 
     }
     else if (event.keyCode === 77) {
-        body.classList.add ('purple');
-        body.classList.remove ('red');
-        
+        body.classList.add('purple');
+        body.classList.remove('red');
+
     }
 }
 document.addEventListener('keydown', changeColor);
