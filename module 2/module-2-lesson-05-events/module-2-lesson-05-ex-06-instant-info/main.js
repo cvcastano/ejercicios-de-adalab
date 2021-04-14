@@ -3,7 +3,7 @@
 const input = document.querySelector('input');
 const paragraph = document.querySelector('p');
 
-function pickUpValue () {
+function pickUpValue (event) {
     paragraph.innerHTML= event.currentTarget.value;
 }
 input.addEventListener('keyup', pickUpValue);
