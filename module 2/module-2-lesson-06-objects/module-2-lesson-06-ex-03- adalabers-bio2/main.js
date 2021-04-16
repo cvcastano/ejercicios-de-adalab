@@ -5,11 +5,11 @@ const adalaber1 = {
     name: 'Susana',
     age: 34,
     job: 'periodista',
-    introduceYourself: function() {
+    showBio: function () {
         return `Mi nombre es ${this.name}, tengo ${this.age} años y soy ${this.job}`;
     }
 };
-console.log(adalaber1.introduceYourself());
+console.log(adalaber1.showBio());
 
 // Hacemos lo mismo para adalaber2 definida en el ejercicio 1. ¿Hemos tenido que modificar mucho el método showBio? ¿Ves alguna ventaja respecto a cómo hacíamos lo mismo en el ejercicio 1? podemos usar las dos a la vez
 
@@ -17,10 +17,10 @@ const adalaber2 = {
     name: 'Rocío',
     age: 25,
     job: 'actriz',
-    introduceYourself: function() {
+    showBio: function () {
         return `Mi nombre es ${this.name}, tengo ${this.age} años y soy ${this.job}`;
     }
 };
-console.log(adalaber2.introduceYourself());
+console.log(adalaber2.showBio());
 
 // Nota: para que el ejercicio funcione bien debéis usar funciones normales, no arrow funtions. En siguientes sesiones veremos por qué cambia el this al usar arrow funtions.
