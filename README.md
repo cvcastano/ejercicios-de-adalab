@@ -283,7 +283,6 @@ To go to a specific one, open and search below.
  - Exercise 6: [A lot in common.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-06-a-lot-in%20common)
  - Exercise 7: [A story of Adalabers.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-07-a-story-of-adalabers)
  - Exercise 8: [Alarm buttons.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-08-alarm-buttons)
- - Exercise 9: [Exercise 9](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-09)
  - Exercise 10: [Exercise 10](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-07-arrays-and-loops/module-02-lesson-07-ex-10)
 </details>
 
