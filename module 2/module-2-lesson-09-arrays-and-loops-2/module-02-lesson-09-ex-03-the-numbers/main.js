@@ -2,27 +2,27 @@
 
 const lostNumbers = [4, 8, 15, 16, 23, 42];
 
-// Crear un nuevo array que contiene solo los números pares que hay en lostNumbers. Para conseguirlo vamos a crear un nuevo array vacío y recorrer el array lostNumbers para al encontrar un número par, meterlo en el nuevo array.
-const evenNumbers = [];
-for (let i = 0; i < lostNumbers.length; i++) {
-    if (lostNumbers[i] % 2 === 0) {
-        evenNumbers.push(lostNumbers[i]);
-        console.log('even numbers are ' + evenNumbers);
-    };
-}
+// Vamos a crear una función bestLostNumber que nos devuelve algunos números 
+// del array de los números de la serie Lost que tenemos arriba. 
+// La función, debe seguir distintos pasos:
 
-// Crear un nuevo array que contiene solo los números múltiplos de 3 que hay en lostNumbers, de una forma similar al anterior.
-const multiplesOf3 = [];
-for (let i = 0; i < lostNumbers.length; i++) {
-    if (lostNumbers[i] % 3 === 0) {
-        multiplesOf3.push(lostNumbers[i]);
-        console.log('multiples of 3 are ' + multiplesOf3);
-    };
-}
-
-// Devolver una concatenación de los 2 arrays anteriores, es decir, que tendrá primero los números pares y luego los múltiplos de 3.
-const concat = evenNumbers.concat(multiplesOf3);
-console.log (concat);
+function bestLostNumber() {
+    let evenNumbers = [];
+    let multiplesOf3 = [];
+    for (let i = 0; i < lostNumbers.length; i++) {
+        if (lostNumbers[i] % 2 === 0) {                  // - Crear un nuevo array que contiene solo los números pares
+            evenNumbers.push(lostNumbers[i]);
+        } else if (lostNumbers[i] % 3 === 0) {          // - Crear un nuevo array que contiene solo los múltiplos de 3
+            multiplesOf3.push(lostNumbers[i]);
+        }
+    }
+    console.log('Los números pares de Lost son', evenNumbers);
+    console.log('Los números múltiplos de 3 de Lost son', multiplesOf3);
+    const result = evenNumbers.concat(multiplesOf3);         // Devolver una concatenación de los 2 arrays anteriores,
+    console.log(result);                                     // primero los números pares y luego los múltiplos de 3.
+    return result;
+};
+bestLostNumber();
 
 
 
