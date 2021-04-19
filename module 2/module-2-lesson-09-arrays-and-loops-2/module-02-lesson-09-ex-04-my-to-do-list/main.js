@@ -7,25 +7,23 @@ const tasks = [
     { name: 'Conseguir hacer este ejercicio bien, a pesar de llevar todo el día con él', completed: false }
 ];
 // Tareas totales
-const body = document.querySelector('body');
-const tasksAmount = tasks.length;
-body.innerHTML += `<p class="outcome">Tienes ${tasksAmount} tareas.</p>`; // Mostrar una frase que indique cuántas tareas hay.
-                                                                          // y un span para luego      
-// Pintar todas las tareas en pantalla.
-body.innerHTML += '<ul></ul>';                                      // crear una lista
+const page = document.querySelector('body');
+page.innerHTML += `<p class="outcome">Número de tareas ➡ ${tasks.length}</p>`;// Mostrar una frase que indique cuántas tareas hay.     
+
+page.innerHTML += '<ul></ul>';                                      // crear una lista
 const listElement = document.querySelector('ul');                   // variable de la lista
 //listElement.innerHTML += `<li>${tasks[0].name}</li>`;             // pintar 1ª tarea en un <li>
 
-function paintTasks() {
+function paintTasks() {                                             // Pintar todas las tareas en pantalla.
     for (let i = 0; i < tasks.length; i++) {
 
-        const eachTask = `${tasks[i].name}`;                        // variable de cada tarea
+        const task = `${tasks[i].name}`;                            // variable de cada tarea
 
-        listElement.innerHTML += `<li>${eachTask}</li>`;            // pintar todas las tareas
-        let listItem = listElement.querySelector('li:last-child');  // crear variable del último <li>(al ir x orden, los recorre todos)
-                                                                    // * MIRAR EL "FOR OF"            
+        listElement.innerHTML += `<li>${task}</li>`;                // pintar todas las tareas
+        let listItem = listElement.querySelector('li:last-child');  // variable del último <li>(al ir x orden, los recorre todos)
+
         if (tasks[i].completed === true) {
-            listItem.classList.add('cross_off');                    // Tachar las ya realizadas
+            listItem.classList.add('crossed_off');                  // Tachar las ya realizadas
             const checked = `<input type="checkbox" checked>`;      // variable del box con check
             listItem.innerHTML += checked;                          // incluirlo en las tareas completadas
         } else {
@@ -35,35 +33,30 @@ function paintTasks() {
     }
 }
 paintTasks();                                                       //ejecutar función paintTasks
-// listElement.classList.add('cross_off');                          //tachar todas las tareas
 
 // Darle dinamismo a la lista
-const eachBox = document.querySelectorAll('input');                 // variable de todos los checkbox
+const checkboxes = document.querySelectorAll('input');              // array con todos los checkbox
 
-const listItems = document.querySelectorAll('li');                  // variable con todos los <li>
-
-for (let i = 0; i < eachBox.length; i++) {
-    eachBox[i].addEventListener('click', handleStatus)              // listener del click
-}
 function handleStatus() {                                           // función para marcar tareas como 'completas' o 'incompletas'.
-    for (let i = 0; i < eachBox.length; i++) {
-        if (eachBox[i].checked === true) {
+    const listItems = document.querySelectorAll('li');              // array con todos los <li>
+    for (let i = 0; i < checkboxes.length; i++) {
+        if (checkboxes[i].checked === true) {
             tasks[i].completed = true;
-            listItems[i].classList.add('cross_off');
+            listItems[i].classList.add('crossed_off');
         } else {
             tasks[i].completed = false;
-            listItems[i].classList.remove('cross_off');
+            listItems[i].classList.remove('crossed_off');
         }
     }
+    let outcome = document.querySelector('.outcome');
+
+    const tasksDone = document.querySelectorAll(':checked').length; // longitud del array de los checked boxes = nº de tareas hechas
+    const tasksToDo = tasks.length - tasksDone;                     // nº de tareas por hacer
+    outcome.innerHTML = `<p class="outcome">Número de tareas ➡ ${tasks.length}</p><p>- Completadas: ${tasksDone} ✔️ </p><p>- Por completar: ${tasksToDo} ⬜</p>`
 }
-const tasksDone = document.querySelectorAll (':checked');           // variable de los checked boxes
-const tasksToDo = parseInt(tasksAmount) - parseInt(tasksDone.length); // número de tareas por hacer
-console.log (tasksToDo);
-let outcome = document.querySelector('.outcome');
-outcome.innerHTML = `Tienes ${tasksAmount} tareas. ${tasksDone.length} completadas y ${tasksToDo} por realizar.`
 
-handleStatus ();
-/* Para que la info siempre esté actualizada en la variable inicial
-add event listener a cada elemento de la lista con un 'for of'
+for (let i = 0; i < checkboxes.length; i++) {
+    checkboxes[i].addEventListener('change', handleStatus)          // listener en cada checkbox
+}
+handleStatus();
 
-*/
