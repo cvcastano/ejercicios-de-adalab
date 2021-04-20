@@ -69,14 +69,28 @@ const promos = [
 const studentsWorkingInGoogle = ['id-2', 'id-3', 'id-5', 'id-9'];
 // -------------------------------------------------------------------------
 
-// 1. RENDER THE PROMOS NAMES IN A LIST
+console.log(promos)
 const notebook = document.querySelector('.js-result');
-const list = `<ul>Exercise 1:</ul>`;
-notebook.innerHTML += list;
-const listElement = notebook.querySelector('ul');
+
+// 1. RENDER THE PROMOS NAMES IN A LIST
+const list1 = `<ul class="ex1_ul">Exercise 1:</ul>`;
+notebook.innerHTML += list1;
+const listElement1 = notebook.querySelector('.ex1_ul');
 
 for (let i = 0; i < promos.length; i++) {
-  listElement.innerHTML += `<li>${promos[i].name}</li>`;
+  listElement1.innerHTML += `<li class="ex1_li">${promos[i].name}</li>`;
+}
+
+// 2. RENDER THE PROMOS LETTERS AND NAMES
+const list2 = `<ul class="ex2_ul">Exercise 2:</ul>`;
+notebook.innerHTML += list2;
+const listElement2 = notebook.querySelector('.ex2_ul');
+
+for (let i = 0; i < promos.length; i++) {
+  listElement2.innerHTML += `<li>`
+  listElement2.innerHTML += `<p>Name: ${promos[i].name}</p>`;
+  listElement2.innerHTML += `<p>Promo: ${promos[i].promo}</p>`;
+  listElement2.innerHTML += `</li>`;
 }
 
 
