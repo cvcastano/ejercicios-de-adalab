@@ -1,18 +1,15 @@
 'use strict';
-function drawTree(height) {
 
-    let triangle = '▲';
-    let firstRound = true;
-    let tree = "";
+console.log('🌟');
+let triangle = '🎄';
+let tree = "";
+
+function drawTree(height) {
     for (let i = 0; i < height; i++) {
-        if (firstRound === true) {
-            console.log('★');
-            firstRound = false;
-        } else {
-            tree += triangle;
-            console.log(tree);
-        }
+        tree += triangle;
+        console.log(tree);
     }
-    console.log('|')
+    console.log('🟫')
 }
+
 drawTree(5);
