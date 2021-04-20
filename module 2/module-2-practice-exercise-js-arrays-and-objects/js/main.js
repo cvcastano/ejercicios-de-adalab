@@ -71,7 +71,7 @@ const studentsWorkingInGoogle = ['id-2', 'id-3', 'id-5', 'id-9'];
 
 // 1. RENDER THE PROMOS NAMES IN A LIST
 const notebook = document.querySelector('.js-result');
-const list = `<ul></ul>`;
+const list = `<ul>Exercise 1:</ul>`;
 notebook.innerHTML += list;
 const listElement = notebook.querySelector('ul');
 
