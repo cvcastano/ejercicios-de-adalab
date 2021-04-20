@@ -87,10 +87,10 @@ notebook.innerHTML += list2;
 const listElement2 = notebook.querySelector('.ex2_ul');
 
 for (let i = 0; i < promos.length; i++) {
-  listElement2.innerHTML += `<li>`
-  listElement2.innerHTML += `<p>Name: ${promos[i].name}</p>`;
-  listElement2.innerHTML += `<p>Promo: ${promos[i].promo}</p>`;
-  listElement2.innerHTML += `</li>`;
-}
+  listElement2.innerHTML += `<li>
+  <p>Name: ${promos[i].name}</p>
+  <p>Promo: ${promos[i].promo}</p>
+  </li>`;
+};
 
 
