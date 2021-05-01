@@ -4,6 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
     <title>Arrays and objects</title>
   </head>
   <body>
@@ -14,7 +18,16 @@
         list-style: none;
       }
       ul {
-        padding: 5px;
+        padding-left: 15px;
+      }
+      li {
+        border-left: 10px;
+        padding-inline-start: 1rem;
+      }
+      li::marker {
+        color: red;
+        font-family: "Material Icons";
+        content: "\e87c";
       }
     </style>
     <script src="./js/main.js"></script>

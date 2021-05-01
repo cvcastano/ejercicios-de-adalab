@@ -68,43 +68,64 @@ const promos = [
 
 const studentsWorkingInGoogle = ['id-2', 'id-3', 'id-5', 'id-9'];
 // -------------------------------------------------------------------------
+{
+  // const notebook = document.querySelector('.js-result');
 
-console.log(promos)
-const notebook = document.querySelector('.js-result');
+  // // 1. RENDER THE PROMOS NAMES IN A LIST
+  // const list1 = `<ul class="ex1_ul"><h3>Exercise 1:</h3></ul>`;
+  // notebook.innerHTML += list1;
+  // const listElement1 = notebook.querySelector('.ex1_ul');
 
-// 1. RENDER THE PROMOS NAMES IN A LIST
-const list1 = `<ul class="ex1_ul"><h3>Exercise 1:</h3></ul>`;
-notebook.innerHTML += list1;
-const listElement1 = notebook.querySelector('.ex1_ul');
+  // for (let i = 0; i < promos.length; i++) {
+  //   listElement1.innerHTML += `<li class="ex1_li">${promos[i].name}</li>`;
+  // }
 
-for (let i = 0; i < promos.length; i++) {
-  listElement1.innerHTML += `<li class="ex1_li">${promos[i].name}</li>`;
+  // // 2. RENDER THE PROMOS LETTERS AND NAMES
+  // const list2 = `<ul class="ex2_ul"><h3>Exercise 2:</h3></ul>`;
+  // notebook.innerHTML += list2;
+  // const listElement2 = notebook.querySelector('.ex2_ul');
+
+  // for (let i = 0; i < promos.length; i++) {
+  //   listElement2.innerHTML += `<li>
+  //   <p>Name: ${promos[i].name}</p>
+  //   <p>Promo: ${promos[i].promo}</p>
+  //   </li>`;
+  // };
+
+  // // 3. RENDER THE PROMOS LETTERS AND NAMES AND THE NUMBER OF STUDENTS
+  // const list3 = `<ul class="ex3_ul"><h3>Exercise 3:</h3></ul>`;
+  // notebook.innerHTML += list3;
+  // const listElement3 = notebook.querySelector('.ex3_ul');
+
+  // for (let i = 0; i < promos.length; i++) {
+  //   listElement3.innerHTML += `<li>
+  //   <p>Name: ${promos[i].name}</p>
+  //   <p>Promo: ${promos[i].promo}</p>
+  //   <p>Number of students: ${promos[i].students.length}</p>
+  //   </li>`;
+  // };
 }
-
-// 2. RENDER THE PROMOS LETTERS AND NAMES
-const list2 = `<ul class="ex2_ul"><h3>Exercise 2:</h3></ul>`;
-notebook.innerHTML += list2;
-const listElement2 = notebook.querySelector('.ex2_ul');
-
+console.log(promos)
+// 4. RENDER THE PROMOS NAMES AND THE STUDENTS NAMES AND AGE
+const result = document.querySelector('.js-result');
+let htmlCode = '';
+htmlCode += '<ul>';
 for (let i = 0; i < promos.length; i++) {
-  listElement2.innerHTML += `<li>
-  <p>Name: ${promos[i].name}</p>
-  <p>Promo: ${promos[i].promo}</p>
-  </li>`;
-};
+  htmlCode += '<li>';
+  htmlCode += `<p>Nombre: ${promos[i].name}</p>`;
+  htmlCode += '<ul>';
+  let students = promos[i].students;
+  for (const student of students) {
+    htmlCode += `<li>${student.name}, ${student.age}</li>`;
+  }
+  htmlCode += '</ul>';
+  htmlCode += '</li>';
+  result.innerHTML = htmlCode;
+}
+htmlCode += '</ul>';
 
-// 3. RENDER THE PROMOS LETTERS AND NAMES AND THE NUMBER OF STUDENTS
-const list3 = `<ul class="ex3_ul"><h3>Exercise 3:</h3></ul>`;
-notebook.innerHTML += list3;
-const listElement3 = notebook.querySelector('.ex3_ul');
 
-for (let i = 0; i < promos.length; i++) {
-  listElement3.innerHTML += `<li>
-  <p>Name: ${promos[i].name}</p>
-  <p>Promo: ${promos[i].promo}</p>
-  <p>Number of students: ${promos[i].students.length}</p>
-  </li>`;
-};
+
 
 
 
