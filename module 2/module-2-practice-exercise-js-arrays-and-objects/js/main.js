@@ -105,28 +105,44 @@ const studentsWorkingInGoogle = ['id-2', 'id-3', 'id-5', 'id-9'];
   //   </li>`;
   // };
 }
-console.log(promos)
-// 4. RENDER THE PROMOS NAMES AND THE STUDENTS NAMES AND AGE
+{
+  // 4. RENDER THE PROMOS NAMES AND THE STUDENTS NAMES AND AGE
+  // const result = document.querySelector('.js-result');
+  // let htmlCode = '';
+  // htmlCode += '<ul>';
+  // for (let i = 0; i < promos.length; i++) {
+  //   htmlCode += '<li>';
+  //   htmlCode += `<p>Nombre: ${promos[i].name}</p>`;
+  //   htmlCode += '<ul>';
+  //   let students = promos[i].students;
+  //   for (const student of students) {
+  //     htmlCode += `<li>${student.name}, ${student.age}</li>`;
+  //   }
+  //   htmlCode += '</ul>';
+  //   htmlCode += '</li>';
+  //   result.innerHTML = htmlCode;
+  // }
+  // htmlCode += '</ul>';
+}
+{
+// 5. RENDER THE PROMOS NAMES AND THE STUDENTS NAMES, AGES AND IDs
+
 const result = document.querySelector('.js-result');
 let htmlCode = '';
 htmlCode += '<ul>';
-for (let i = 0; i < promos.length; i++) {
+for (const promo of promos) {
   htmlCode += '<li>';
-  htmlCode += `<p>Nombre: ${promos[i].name}</p>`;
+  htmlCode += `<p>Name: ${promo.name}</p>`;
   htmlCode += '<ul>';
-  let students = promos[i].students;
+  const students = promo.students
   for (const student of students) {
-    htmlCode += `<li>${student.name}, ${student.age}</li>`;
+    htmlCode += `<li id="${student.id}">${student.name}, ${student.age}</li>`;
   }
   htmlCode += '</ul>';
   htmlCode += '</li>';
-  result.innerHTML = htmlCode;
 }
+
 htmlCode += '</ul>';
 
-
-
-
-
-
-
+result.innerHTML = htmlCode;
+}
