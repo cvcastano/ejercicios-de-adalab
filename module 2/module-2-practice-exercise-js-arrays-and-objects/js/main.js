@@ -167,25 +167,54 @@ const studentsWorkingInGoogle = ['id-2', 'id-3', 'id-5', 'id-9'];
 
   // result.innerHTML = htmlCode;
 }
+{
+  // // 7. RENDER THE PROMOS NAMES AND THE STUDENTS NAMES, AGES AND IDs OF THE STUDENTS THAT WORK IN GOOGLE.
+  // const result = document.querySelector('.js-result');
+  // let htmlCode = '<ul>';
+  // for (const promo of promos) {
+  //   htmlCode += '<li>';
+  //   htmlCode += `<p>Name: ${promo.name}</p>`;
+  //   htmlCode += '<ul>';
+  //   const students = promo.students;
 
-// 7. RENDER THE PROMOS NAMES AND THE STUDENTS NAMES, AGES AND IDs OF THE STUDENTS THAT WORK IN GOOGLE.
+  //   for (const student of students) {
+  //     // console.log(studentsWorkingInGoogle)
+  //     if (studentsWorkingInGoogle.includes(student.id)) {
+  //       htmlCode += `<li id=${student.id}>${student.name}, ${student.age}`;
+  //     }
+  //   }
+  //   htmlCode += '</ul>';
+  //   htmlCode += '</li>';
+  // }
+
+  // htmlCode += '</ul>';
+  // result.innerHTML = htmlCode;
+}
+// 8. RENDER THE PROMOS NAMES AND THE STUDENTS NAMES AND AGES AND SHOW AT THE CONSOLE THE ID OF ANY STUDENT WHEN CLICKED.
 const result = document.querySelector('.js-result');
-let htmlCode = '<ul>';
+let htmlCode = '<h4>ADALAB PROMOTIONS</h4>';
+htmlCode += '<ul>';
 for (const promo of promos) {
   htmlCode += '<li>';
   htmlCode += `<p>Name: ${promo.name}</p>`;
   htmlCode += '<ul>';
   const students = promo.students;
-
   for (const student of students) {
-    // console.log(studentsWorkingInGoogle)
-    if (studentsWorkingInGoogle.includes(student.id)) {
-      htmlCode += `<li id=${student.id}>${student.name}, ${student.age}`;
-    }
+    htmlCode += `<li class="adalaber" id="${student.id}">${student.name}, ${student.age}</li>`;
   }
   htmlCode += '</ul>';
   htmlCode += '</li>';
 }
-
 htmlCode += '</ul>';
 result.innerHTML = htmlCode;
+
+const adalabers = document.querySelectorAll('.adalaber');
+function handleClick(ev) {
+  console.log(ev.target.id)
+}
+for (const adalaber of adalabers) {
+  adalaber.addEventListener('click', handleClick);
+}
+
+
+
