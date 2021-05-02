@@ -146,23 +146,46 @@ const studentsWorkingInGoogle = ['id-2', 'id-3', 'id-5', 'id-9'];
 
   // result.innerHTML = htmlCode;
 }
+{
+  // // 6. RENDER THE PROMOS NAMES AND THE STUDENTS NAMES, AGES AND IDs OF ONLY THE STUDENTS WHOSE AGE IS AN EVEN NUMBER.
+  // const result = document.querySelector('.js-result');
+  // let htmlCode = '<ul>';
+  // for (const promo of promos) {
+  //   htmlCode += '<li>';
+  //   htmlCode += `<p>Name: ${promo.name}</p>`
+  //   htmlCode += '<ul>';
+  //   const students = promo.students;
+  //   for (const student of students) {
+  //     if (student.age % 2 === 0) {
+  //       htmlCode += `<li id="${student.id}"> ${student.name}, ${student.age}</li>`;
+  //     }
+  //   }
+  //   htmlCode += '</ul>';
+  //   htmlCode += '</li>';
+  // }
+  // htmlCode += '</ul>';
 
-// 6. RENDER THE PROMOS NAMES AND THE STUDENTS NAMES, AGES AND IDs OF ONLY THE STUDENTS WHOSE AGE IS AN EVEN NUMBER.
+  // result.innerHTML = htmlCode;
+}
+
+// 7. RENDER THE PROMOS NAMES AND THE STUDENTS NAMES, AGES AND IDs OF THE STUDENTS THAT WORK IN GOOGLE.
 const result = document.querySelector('.js-result');
 let htmlCode = '<ul>';
 for (const promo of promos) {
   htmlCode += '<li>';
-  htmlCode += `<p>Name: ${promo.name}</p>`
+  htmlCode += `<p>Name: ${promo.name}</p>`;
   htmlCode += '<ul>';
   const students = promo.students;
+
   for (const student of students) {
-    if (student.age % 2 === 0) {
-      htmlCode += `<li id="${student.id}"> ${student.name}, ${student.age}</li>`;
+    // console.log(studentsWorkingInGoogle)
+    if (studentsWorkingInGoogle.includes(student.id)) {
+      htmlCode += `<li id=${student.id}>${student.name}, ${student.age}`;
     }
   }
   htmlCode += '</ul>';
   htmlCode += '</li>';
 }
-htmlCode += '</ul>';
 
+htmlCode += '</ul>';
 result.innerHTML = htmlCode;
