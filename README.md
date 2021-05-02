@@ -297,8 +297,9 @@ To go to a specific one, open and search below.
  - Exercise 5: [Create your X-mas tree.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-05-create-your-x-mas-tree)
  - Exercise 6: [Improve your X-mas tree.](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-06-improve-your-x-mas-tree)
  - Exercise 7: [That is a spruce!](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-09-arrays-and-loops-2/module-02-lesson-09-ex-07-that-is-a-spruce)
-
 </details>
+
+#### PRACTICE EXERCISE [Promotions](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-practice-exercise-js-arrays-and-objects)
 
 #### LESSON 10 [Server Requests](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%202/module-2-lesson-10-server-requests)
 <details>
