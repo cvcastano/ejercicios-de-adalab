@@ -1,4 +1,11 @@
-[Exercise 5](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_4_eventos_react#ejercicio-5)
+Partimos de un select con nombre de ciudades que encapsulamos en un componente CitySelector. 
+Vamos a hacer que, al seleccionar una ciudad del select, aparezca una foto de la misma al lado.  
+Para llevarlo a cabo debemos:
+- guardar en un atributo de la clase la ciudad seleccionada como inicial, por ejemplo, this.selectedCity = 'Madrid' y usarlo para pintar la imagen en el render
+- crear un método handleClick que actualice el valor de selectedCity y llame a forceUpdate para forzar el repintado de la imagen
+- y usar lifting para pasarlo al componente hijo que se ejecute al cambiar el select
+
+NOTA: en la próxima sesión veremos el estado de React que nos facilitará este flujo, pero de momento hacemos el repintado "a mano" con forceUpdate
 
 
 ![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-05-cities/src/citiesCapture.gif)
