@@ -425,9 +425,8 @@ To go to a specific one, open and search below.
  - Exercise 4: [See your destination](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-04-see-your-destination)
  - Exercise 5: [Cities](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-05-cities)
  - Exercise 6: [Mimimimi](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-06-mimimi)
- - Exercise 7: []()
- - Exercise 8: []()
- - Exercise 9: []()
+ - Exercise 7: [Filtering items](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-07-filtering-items)
+ - Exercise 8-9: [Lifting in functional components](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-08-and-09-functional-components-lifting)
 </details>
 
 #### LESSON 5 [React State]()
