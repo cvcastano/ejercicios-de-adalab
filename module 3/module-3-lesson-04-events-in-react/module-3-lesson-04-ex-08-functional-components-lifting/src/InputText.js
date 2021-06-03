@@ -3,11 +3,8 @@ import React from 'react';
 const InputText = props => {
 
   const handleKeyUp = ev => {
-    const data = {
-      name: props.name,
-      value: ev.currentTarget.value
-    };
-    props.handleInput(data);
+
+    props.handleInput(props.name, ev.currentTarget.value);
   };
 
   return (
@@ -19,6 +16,7 @@ const InputText = props => {
         id={props.id}
         type='text'
         name={props.name}
+        city={props.city}
         onKeyUp={handleKeyUp}
       />
     </div>

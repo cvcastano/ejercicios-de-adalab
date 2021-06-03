@@ -1,8 +1,8 @@
 import React from 'react';
 import InputText from './InputText';
 
-const handleFormInput = data => {
-  console.log(data);
+const handleFormInput = (name, value) => {
+  console.log(name, value);
 };
 
 const Form = () => {
@@ -18,6 +18,12 @@ const Form = () => {
         id="email"
         label='Write your email: '
         name='email'
+        handleInput={handleFormInput}
+      />
+      <InputText
+        id="city"
+        label='Write your city: '
+        name='city'
         handleInput={handleFormInput}
       />
     </form>
