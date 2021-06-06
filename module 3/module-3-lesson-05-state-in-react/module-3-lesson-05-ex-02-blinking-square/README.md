@@ -6,7 +6,7 @@ We will implement this blinking square using the component state (we can store t
 - HINT: When listening to the click event to check what color the square previously was, we will use the previous version of the state that takes the prevState parameter of the callback function that we passed to setState
 
 
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-02-blinking-square/src/capture.gif)
 
 # App.js 
 ```javascript
