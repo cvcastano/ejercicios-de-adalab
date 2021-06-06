@@ -1,4 +1,6 @@
-[Exercise 01](https://books.adalab.es/materiales-front-end-l/modulo-3-react/3_5_estado_react#ejercicio-1)
+# Exercise 1. Showing related info
+Let's start from a simple web with a text input and an empty paragraph.  
+Will we be able to make, with React and the state, that when we modify the input, the text appears in the paragraph?
 
 ![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-01-showing-related-info/src/capture.gif)
 
