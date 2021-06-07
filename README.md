@@ -436,9 +436,9 @@ To go to a specific one, open and search below.
  - Exercise 2: [Blinking square](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-02-blinking-square)
  - Exercise 3: [Time to sleep](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-03-time-to-sleep)
  - Exercise 4: [Sheep counter](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-04-sheep-counter)
- - Exercise 5: [Advanced sheep counter](
- - Exercise 6: [User info](
- - Exercise 7: [Fresh fruits](
+ - Exercise 5: [Advanced sheep counter](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-05-advanced-sheep-counter)
+ - Exercise 6: [User info](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-06-user-info)
+ - Exercise 7: [Fresh fruits](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-07-fresh-fruits)
  
 </details>
 
