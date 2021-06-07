@@ -10,7 +10,7 @@ In the component constructor we will declare a setInterval() that executes updat
 - NOTE: when making changes to the component once you have set the setInterval, reload the page completely manually. Otherwise, all the setIntervals that we have defined will continue to be executed and the page may be overloaded.  
 We will be able to control this problem through the code when we see the life cycle of the React components.
 
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-03-time-to-sleep/capture.gif)
 
 # App.js 
 ```javascript
