@@ -428,17 +428,17 @@ To go to a specific one, open and search below.
 - Exercise 8-9: [Lifting in functional components](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-04-events-in-react/module-3-lesson-04-ex-08-and-09-functional-components-lifting)
 </details>
 
-#### LESSON 5 [React State]()
+#### LESSON 5 [React State](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-05-state-in-react)
 <details>
 <summary></summary>
  
  - Exercise 1: [Showing related info](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-01-showing-related-info)
- - Exercise 2: [Blinking square]()
- - Exercise 3: [Time to sleep]()
- - Exercise 4: [Sheep counter]()
- - Exercise 5: [Advanced sheep counter]()
- - Exercise 6: [User info]()
- - Exercise 7: [Fresh fruits]()
+ - Exercise 2: [Blinking square](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-02-blinking-square)
+ - Exercise 3: [Time to sleep](https://github.com/cvcastano/ejercicios-de-adalab/tree/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-03-time-to-sleep)
+ - Exercise 4: [Sheep counter](
+ - Exercise 5: [Advanced sheep counter](
+ - Exercise 6: [User info](
+ - Exercise 7: [Fresh fruits](
  
 </details>
 
