@@ -5,7 +5,7 @@ Based on some novel scientific studies from some famous university that says tha
 We will create a SheepCounter component that will display a large number and a button.  
 The button will have a listener assigned to the click event that will increment the counter. We will update the value of the counter with setState(/* function */).
 
-![]()
+![](https://github.com/cvcastano/ejercicios-de-adalab/blob/master/module%203/module-3-lesson-05-state-in-react/module-3-lesson-05-ex-04-sheep-counter/capture.gif)
 
 # App.js 
 ```javascript
