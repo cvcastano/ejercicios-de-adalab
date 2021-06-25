@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import AddFruit from './AddFruit';
 
 class App extends React.Component {
   constructor(props) {
@@ -24,6 +25,7 @@ class App extends React.Component {
         <ul>
           {renderArray}
         </ul>
+        <AddFruit/>
       </>
     );
   }
