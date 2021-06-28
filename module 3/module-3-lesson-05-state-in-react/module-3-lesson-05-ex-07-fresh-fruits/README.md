@@ -10,6 +10,7 @@ this.state = {
 ```
 1. Paint the list from the `popularFruits` status key.
 2. Paint a text input and a button with the text "Add".
+3. Each time the input changes, the `newFruit` status key must be updated.
 
 ![]()
 

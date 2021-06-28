@@ -1,11 +1,14 @@
 
 
-function AddFruit () {
+function AddFruit(props) {
 
-    return(
+    return (
         <>
-        <input type="text"/>
-        <button>Add</button>
+            <input
+                value={props.value}
+                onChange={props.handleInput} type="text"
+            />
+            <button onClick={props.addFruit}>Add</button>
         </>
     )
 }
